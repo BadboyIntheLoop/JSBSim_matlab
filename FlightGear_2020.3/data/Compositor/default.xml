@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-
-<!--
-    This Compositor is used by default when none has been specified in the
-    CameraGroup settings.
--->
-<PropertyList include="low-spec.xml"/>

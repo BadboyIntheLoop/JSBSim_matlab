@@ -1,6 +1,0 @@
-OBJECT_BASE 351198.btg
-OBJECT_SHARED Models/Communications/radio-tall.xml -158.148222 21.419917 -135 0.0
-OBJECT_SHARED Models/Communications/radio-tall.xml -158.153975 21.420364 -135 0.0
-OBJECT_SHARED Models/Communications/Antenna1.ac -158.154681 21.421750 11 0.0
-OBJECT_SHARED Models/Communications/tower-microwave-1.xml -158.160833 21.430278 9 0.0
-OBJECT_SHARED Models/Communications/tower-microwave-1.xml -158.143203 21.437019 24 0.0
