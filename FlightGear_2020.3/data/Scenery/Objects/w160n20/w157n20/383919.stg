@@ -1,0 +1,3 @@
+OBJECT_SHARED Models/Communications/radio-medium.xml -156.001944 20.747778 33.42 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -156.001667 20.749167 13.75 180
+OBJECT_STATIC waimoku_falls.xml -156.0574 20.6786 432.35 0

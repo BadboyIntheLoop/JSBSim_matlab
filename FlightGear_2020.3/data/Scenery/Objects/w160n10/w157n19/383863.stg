@@ -1,0 +1,5 @@
+OBJECT_SHARED Models/Airport/ils.xml -156.045453 19.750772 14.18 175.54
+OBJECT_SHARED Models/Airport/marker.ac -156.043444 19.763444 14.12 180
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -156.022671 19.75 63.97 260.39
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -156.020427 19.762469 61.65 248.86
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -156.003532 19.78726 106.16 237.33

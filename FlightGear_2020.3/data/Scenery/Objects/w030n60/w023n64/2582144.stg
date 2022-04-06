@@ -1,0 +1,5 @@
+OBJECT_SHARED Models/Airport/ndb.ac -22.605 64.049444 12.4 180
+OBJECT_SHARED Models/Airport/marker.ac -22.605556 64.001111 38.27 180
+OBJECT_SHARED Models/Airport/marker.ac -22.605 64.049444 12.4 180
+OBJECT_SHARED Models/Communications/vodafone_funkturm.xml -22.6361377 64.0024699 35.53 0
+OBJECT_STATIC Holmsberg_Lighthouse.xml -22.5567737 64.0302454 0.93 0

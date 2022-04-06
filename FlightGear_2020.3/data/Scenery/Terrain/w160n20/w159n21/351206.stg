@@ -1,0 +1,18 @@
+OBJECT_BASE 351206.btg
+OBJECT_SHARED Models/Communications/tower-microwave-small-1.ac -158.228181 21.500103 -5 0.0
+OBJECT_SHARED Models/Communications/Antenna3.ac -158.141667 21.506667 1206 0.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue.xml -158.142389 21.508056 1103 0.0
+OBJECT_SHARED Models/Communications/tower-microwave-1.xml -158.248333 21.562222 380 0.0
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -158.204361 21.573322 36 0.0
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -158.209622 21.574819 32 0.0
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -158.209928 21.576039 26 0.0
+OBJECT_SHARED Models/Communications/Antenna3.ac -158.222222 21.577222 -2 0.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue.xml -158.182508 21.578444 -123 0.0
+OBJECT_SHARED Models/Airport/LightPoleGeneric18m.xml -158.201058 21.578536 0 0.0
+OBJECT_SHARED Models/Airport/LightPoleGeneric18m.xml -158.181203 21.578639 0 0.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue.xml -158.207411 21.578733 -121 0.0
+OBJECT_SHARED Models/Airport/LightPoleGeneric18m.xml -158.213672 21.579211 5 0.0
+OBJECT_SHARED Models/Airport/LightPoleGeneric18m.xml -158.208928 21.580417 4 0.0
+OBJECT PHDH.btg
+OBJECT_SHARED Models/Airport/windsock.xml -158.182374 21.578919 7.3 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -158.210138 21.578935 7.9 0.00

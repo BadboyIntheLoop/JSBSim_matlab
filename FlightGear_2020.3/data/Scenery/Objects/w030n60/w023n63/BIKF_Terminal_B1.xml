@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PropertyList>
+
+<path>BIKF_Terminal_B1.ac</path>
+
+<animation>
+ <type>material</type> 
+ <object-name>BIKF_Terminal_B1</object-name>
+ <condition>		
+  <greater-than>		
+   <property>/sim/time/sun-angle-rad</property>
+   <value>1.57</value>
+  </greater-than>
+ </condition>
+ <emission>	
+  <red>1</red>	
+  <green>1</green>	
+  <blue>1</blue>
+ </emission>
+ <texture>BIKF_Terminal_B12.png</texture>
+</animation>
+
+<animation>
+ <type>material</type> 
+ <object-name>BIKF_Terminal_B1</object-name>
+ <condition>		
+  <less-than-equals>		
+   <property>/sim/time/sun-angle-rad</property>
+   <value>1.57</value>
+  </less-than-equals>
+ </condition>
+ <emission>	
+  <red>1</red>	
+  <green>1</green>	
+  <blue>1</blue>
+ </emission>
+ <texture>BIKF_Terminal_B11.png</texture>
+</animation>
+
+</PropertyList>

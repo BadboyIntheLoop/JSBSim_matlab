@@ -1,0 +1,4 @@
+OBJECT_BASE 351215.btg
+OBJECT_SHARED Models/Power/windturbine.xml -158.045803 21.625747 181 0.0
+OBJECT_SHARED Models/Power/windturbine.xml -158.050231 21.627694 148 0.0
+OBJECT_SHARED Models/Communications/Antenna1.ac -158.000356 21.664569 313 0.0

@@ -1,0 +1,12 @@
+OBJECT_BASE 367576.btg
+OBJECT_SHARED Models/Communications/tower-microwave-small-1.ac -157.905617 21.378372 62 0.0
+OBJECT_SHARED Models/Communications/radio-medium.xml -157.906944 21.381111 -40 0.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue.xml -157.936944 21.386389 -15 0.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue.xml -157.941944 21.387500 -13 0.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue.xml -157.941667 21.388056 12 0.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue.xml -157.979722 21.398333 0 0.0
+OBJECT_SHARED Models/Communications/tower-microwave-small-1.ac -157.969928 21.400711 20 0.0
+OBJECT_SHARED Models/Communications/tower-microwave-small-1.ac -157.975000 21.411222 22 0.0
+OBJECT_SHARED Models/Communications/Antenna3.ac -157.990833 21.436389 157 0.0
+OBJECT HI24.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -157.964492 21.391047 -9999.0 0.00

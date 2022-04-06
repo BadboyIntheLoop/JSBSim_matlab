@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList> 
+	<path>MDPC_new_tower.ac</path> 
+	<animation> 
+		<type>textranslate</type> 
+	<object-name>MDPC_new_tower</object-name> 
+	<object-name>MDPC_tower_glass</object-name> 
+	<property>/sim/time/sun-angle-rad</property> 
+	<factor>0.3125</factor> 
+	<step>1.6</step> 
+	<axis> 
+		<x>1</x> 
+		<y>0</y> 
+		</axis> 
+	</animation> 
+		<animation> 
+			<type>material</type> 
+			<object-name>MDPC_new_tower</object-name> 
+			<object-name>MDPC_tower_glass</object-name> 
+			<condition> 
+				<greater-than> 
+					<property>/sim/time/sun-angle-rad</property> 
+					<value>1.6</value> </greater-than> </condition> 
+					<emission> 
+						<red> 0.6 </red> 
+					<green> 0.8 </green> 
+					<blue> 0.8 </blue> </emission> 
+		</animation> 
+</PropertyList>

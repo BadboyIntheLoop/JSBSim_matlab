@@ -1,0 +1,1655 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:trolltech="urn:trolltech:names:ts:document:1.0">
+  <file original="" datatype="plaintext" source-language="en-US" target-language="it"><body>
+    <group restype="x-trolltech-linguist-context" resname="menu">
+      <trans-unit id="menu/adjust-hud:0" approved="yes">
+        <source xml:space="preserve">Adjust HUD Properties</source>
+        <target xml:space="preserve">Modifica proprietà HUD</target>
+      </trans-unit>
+      <trans-unit id="menu/adjust-lod:0" approved="yes">
+        <source xml:space="preserve">Adjust LOD Ranges</source>
+        <target xml:space="preserve">Modifica range livello di dettaglio</target>
+      </trans-unit>
+      <trans-unit id="menu/ai:0" approved="yes">
+        <source xml:space="preserve">AI</source>
+        <target xml:space="preserve">IA</target>
+      </trans-unit>
+      <trans-unit id="menu/aircraft-center:0" approved="yes">
+        <source xml:space="preserve">Aircraft Center (Experimental)</source>
+        <target xml:space="preserve">Centro aeromobili (sperimentale)</target>
+      </trans-unit>
+      <trans-unit id="menu/aircraft-checklists:0" approved="yes">
+        <source xml:space="preserve">Aircraft Checklists</source>
+        <target xml:space="preserve">Checklist aereo</target>
+      </trans-unit>
+      <trans-unit id="menu/aircraft-keys:0" approved="yes">
+        <source xml:space="preserve">Aircraft Help</source>
+        <target xml:space="preserve">Guida aereo</target>
+      </trans-unit>
+      <trans-unit id="menu/atc-in-range:0" approved="yes">
+        <source xml:space="preserve">ATC Services in Range</source>
+        <target xml:space="preserve">Servizi ATC nelle vicinanze</target>
+      </trans-unit>
+      <trans-unit id="menu/autopilot:0" approved="yes">
+        <source xml:space="preserve">Autopilot</source>
+        <target xml:space="preserve">Pilota automatico</target>
+      </trans-unit>
+      <trans-unit id="menu/autopilot-settings:0" approved="yes">
+        <source xml:space="preserve">Autopilot Settings</source>
+        <target xml:space="preserve">Impostazioni pilota automatico</target>
+      </trans-unit>
+      <trans-unit id="menu/autostart:0" approved="yes">
+        <source xml:space="preserve">Autostart</source>
+        <target xml:space="preserve">Avvio automatico</target>
+      </trans-unit>
+      <trans-unit id="menu/basic-keys:0" approved="yes">
+        <source xml:space="preserve">Basic Simulator Keys</source>
+        <target xml:space="preserve">Tasti fondamentali del simulatore</target>
+      </trans-unit>
+      <trans-unit id="menu/carrier:0" approved="yes">
+        <source xml:space="preserve">Carrier Controls</source>
+        <target xml:space="preserve">Controlli portaerei</target>
+      </trans-unit>
+      <trans-unit id="menu/cockpit-view-options:0" approved="yes">
+        <source xml:space="preserve">Cockpit View Options</source>
+        <target xml:space="preserve">Opzioni vista cockpit</target>
+      </trans-unit>
+      <trans-unit id="menu/common-keys:0" approved="yes">
+        <source xml:space="preserve">Common Aircraft Keys</source>
+        <target xml:space="preserve">Tasti in comune a tutti gli aerei</target>
+      </trans-unit>
+      <trans-unit id="menu/configure-dev-extension:0" approved="yes">
+        <source xml:space="preserve">Configure Development Extensions</source>
+        <target xml:space="preserve">Configura estensioni sviluppo</target>
+      </trans-unit>
+      <trans-unit id="menu/cycle-gui:0" approved="yes">
+        <source xml:space="preserve">Cycle GUI Style</source>
+        <target xml:space="preserve">Passa da uno stile dell&apos;interfaccia grafica all&apos;altro</target>
+      </trans-unit>
+      <trans-unit id="menu/debug:0" approved="yes">
+        <source xml:space="preserve">Debug</source>
+        <target xml:space="preserve">Debug</target>
+      </trans-unit>
+      <trans-unit id="menu/development-keys:0" approved="yes">
+        <source xml:space="preserve">Development Keys</source>
+        <target xml:space="preserve">Tasti sviluppo</target>
+      </trans-unit>
+      <trans-unit id="menu/display-marker:0" approved="yes">
+        <source xml:space="preserve">Display Tutorial Marker</source>
+        <target xml:space="preserve">Visualizza indicatore tutorial</target>
+      </trans-unit>
+      <trans-unit id="menu/doc-browser:0" approved="yes">
+        <source xml:space="preserve">Documentation Browser</source>
+        <target xml:space="preserve">Browser documentazione</target>
+      </trans-unit>
+      <trans-unit id="menu/dump-scene-graph:0" approved="yes">
+        <source xml:space="preserve">Dump Scene Graph</source>
+        <target xml:space="preserve">Dump grafo della scena</target>
+      </trans-unit>
+      <trans-unit id="menu/environment:0" approved="yes">
+        <source xml:space="preserve">Environment</source>
+        <target xml:space="preserve">Ambiente</target>
+      </trans-unit>
+      <trans-unit id="menu/environment-settings:0" approved="yes">
+        <source xml:space="preserve">Environment Settings</source>
+        <target xml:space="preserve">Impostazioni ambiente</target>
+      </trans-unit>
+      <trans-unit id="menu/equipment:0" approved="yes">
+        <source xml:space="preserve">Equipment</source>
+        <target xml:space="preserve">Equipaggiamento</target>
+      </trans-unit>
+      <trans-unit id="menu/exit:0" approved="yes">
+        <source xml:space="preserve">Quit</source>
+        <target xml:space="preserve">Esci</target>
+      </trans-unit>
+      <trans-unit id="menu/failure-submenu:0" approved="yes">
+        <source xml:space="preserve">--- Failures ---</source>
+        <target xml:space="preserve">--- Guasti ---</target>
+      </trans-unit>
+      <trans-unit id="menu/fg1000:0" translate="no" approved="yes">
+        <source xml:space="preserve">FG1000 MFD</source>
+        <target xml:space="preserve">Display multifunzione FG1000</target>
+      </trans-unit>
+      <trans-unit id="menu/fg1000-mfd:0" approved="yes">
+        <source xml:space="preserve">FG1000 MFD</source>
+        <target xml:space="preserve">Display multifunzione FG1000</target>
+      </trans-unit>
+      <trans-unit id="menu/fg1000-pfd:0" approved="yes">
+        <source xml:space="preserve">FG1000 PFD</source>
+        <target xml:space="preserve">Display primario di navigazione FG1000</target>
+      </trans-unit>
+      <trans-unit id="menu/fgcom-settings:0" approved="yes">
+        <source xml:space="preserve">FGCom Settings</source>
+        <target xml:space="preserve">Impostazioni FGCom</target>
+      </trans-unit>
+      <trans-unit id="menu/file:0" approved="yes">
+        <source xml:space="preserve">File</source>
+        <target xml:space="preserve">File</target>
+      </trans-unit>
+      <trans-unit id="menu/fuel-and-payload:0" approved="yes">
+        <source xml:space="preserve">Fuel and Payload</source>
+        <target xml:space="preserve">Carburante e carico</target>
+      </trans-unit>
+      <trans-unit id="menu/global-weather:0" approved="yes">
+        <source xml:space="preserve">Weather</source>
+        <target xml:space="preserve">Meteo</target>
+      </trans-unit>
+      <trans-unit id="menu/goto-airport:0" approved="yes">
+        <source xml:space="preserve">Select Airport</source>
+        <target xml:space="preserve">Seleziona aeroporto</target>
+      </trans-unit>
+      <trans-unit id="menu/gps:0" approved="yes">
+        <source xml:space="preserve">GPS Settings</source>
+        <target xml:space="preserve">Impostazioni GPS</target>
+      </trans-unit>
+      <trans-unit id="menu/help:0" approved="yes">
+        <source xml:space="preserve">Help</source>
+        <target xml:space="preserve">Aiuto</target>
+      </trans-unit>
+      <trans-unit id="menu/help-browser:0" approved="yes">
+        <source xml:space="preserve">Help (opens in browser)</source>
+        <target xml:space="preserve">Guida (si apre nel browser)</target>
+      </trans-unit>
+      <trans-unit id="menu/immatriculation:0" approved="yes">
+        <source xml:space="preserve">Immatriculation</source>
+        <target xml:space="preserve">Marche</target>
+      </trans-unit>
+      <trans-unit id="menu/input-config:0" approved="yes">
+        <source xml:space="preserve">Mouse Configuration</source>
+        <target xml:space="preserve">Configurazione mouse</target>
+      </trans-unit>
+      <trans-unit id="menu/instrument-failures:0" approved="yes">
+        <source xml:space="preserve">Instrument Failures</source>
+        <target xml:space="preserve">Guasti degli strumenti di bordo</target>
+      </trans-unit>
+      <trans-unit id="menu/instrument-settings:0" approved="yes">
+        <source xml:space="preserve">Instrument Settings</source>
+        <target xml:space="preserve">Impostazioni strumenti di bordo</target>
+      </trans-unit>
+      <trans-unit id="menu/interface-config:0" approved="yes">
+        <source xml:space="preserve">User-interface Options</source>
+        <target xml:space="preserve">Opzioni interfaccia utente</target>
+      </trans-unit>
+      <trans-unit id="menu/jetway:0" approved="yes">
+        <source xml:space="preserve">Jetway Settings</source>
+        <target xml:space="preserve">Configurazione finger</target>
+      </trans-unit>
+      <trans-unit id="menu/joystick-config:0" approved="yes">
+        <source xml:space="preserve">Joystick Configuration</source>
+        <target xml:space="preserve">Configurazione joystick</target>
+      </trans-unit>
+      <trans-unit id="menu/joystick-info:0" approved="yes">
+        <source xml:space="preserve">Joystick Information</source>
+        <target xml:space="preserve">Informazioni joystick</target>
+      </trans-unit>
+      <trans-unit id="menu/lag-adjust:0" approved="yes">
+        <source xml:space="preserve">Lag Settings</source>
+        <target xml:space="preserve">Impostazioni lag</target>
+      </trans-unit>
+      <trans-unit id="menu/load-tape:0" approved="yes">
+        <source xml:space="preserve">Load Flight Recorder Tape</source>
+        <target xml:space="preserve">Carica nastro registratore di volo</target>
+      </trans-unit>
+      <trans-unit id="menu/local_weather:0" approved="yes">
+        <source xml:space="preserve">Local Weather (Test)</source>
+        <target xml:space="preserve">Meteo locale (test)</target>
+      </trans-unit>
+      <trans-unit id="menu/location:0" approved="yes">
+        <source xml:space="preserve">Location</source>
+        <target xml:space="preserve">Posizione</target>
+      </trans-unit>
+      <trans-unit id="menu/logging:0" approved="yes">
+        <source xml:space="preserve">Logging</source>
+        <target xml:space="preserve">Logging</target>
+      </trans-unit>
+      <trans-unit id="menu/map:0" approved="yes">
+        <source xml:space="preserve">Map</source>
+        <target xml:space="preserve">Mappa</target>
+      </trans-unit>
+      <trans-unit id="menu/map-browser:0" approved="yes">
+        <source xml:space="preserve">Map (opens in browser)</source>
+        <target xml:space="preserve">Mappa (si apre nel browser)</target>
+      </trans-unit>
+      <trans-unit id="menu/map-canvas:0" approved="yes">
+        <source xml:space="preserve">Map (Canvas)</source>
+        <target xml:space="preserve">Mappa (Canvas)</target>
+      </trans-unit>
+      <trans-unit id="menu/menu-about:0" approved="yes">
+        <source xml:space="preserve">About</source>
+        <target xml:space="preserve">Informazioni su</target>
+      </trans-unit>
+      <trans-unit id="menu/mp-carrier:0" approved="yes">
+        <source xml:space="preserve">MPCarrier Selection</source>
+        <target xml:space="preserve">Seleziona portaerei multigiocatore</target>
+      </trans-unit>
+      <trans-unit id="menu/mp-chat:0" approved="yes">
+        <source xml:space="preserve">Chat Dialog</source>
+        <target xml:space="preserve">Finestra chat</target>
+      </trans-unit>
+      <trans-unit id="menu/mp-chat-menu:0" approved="yes">
+        <source xml:space="preserve">Chat Menu</source>
+        <target xml:space="preserve">Menù chat</target>
+      </trans-unit>
+      <trans-unit id="menu/mp-list:0" approved="yes">
+        <source xml:space="preserve">Pilot List</source>
+        <target xml:space="preserve">Elenco piloti</target>
+      </trans-unit>
+      <trans-unit id="menu/mp-settings:0" approved="yes">
+        <source xml:space="preserve">Multiplayer Settings</source>
+        <target xml:space="preserve">Impostazioni multigiocatore</target>
+      </trans-unit>
+      <trans-unit id="menu/multiplayer:0" approved="yes">
+        <source xml:space="preserve">Multiplayer</source>
+        <target xml:space="preserve">Multigiocatore</target>
+      </trans-unit>
+      <trans-unit id="menu/nasal-console:0" approved="yes">
+        <source xml:space="preserve">Nasal Console</source>
+        <target xml:space="preserve">Console Nasal</target>
+      </trans-unit>
+      <trans-unit id="menu/nasal-repl-interpreter:0" approved="yes">
+        <source xml:space="preserve">Nasal REPL Interpreter</source>
+        <target xml:space="preserve">Interprete REPL Nasal</target>
+      </trans-unit>
+      <trans-unit id="menu/next-waypoint:0" approved="yes">
+        <source xml:space="preserve">Next Waypoint</source>
+        <target xml:space="preserve">Waypoint successivo</target>
+      </trans-unit>
+      <trans-unit id="menu/performance-monitor:0" approved="yes">
+        <source xml:space="preserve">Monitor System Performance</source>
+        <target xml:space="preserve">Controlla performance di sistema</target>
+      </trans-unit>
+      <trans-unit id="menu/pilot-offset:0" approved="yes">
+        <source xml:space="preserve">Adjust View Position</source>
+        <target xml:space="preserve">Modifica posizione pilota</target>
+      </trans-unit>
+      <trans-unit id="menu/position-in-air:0" approved="yes">
+        <source xml:space="preserve">Position Aircraft In Air</source>
+        <target xml:space="preserve">Posiziona l&apos;aereo in volo</target>
+      </trans-unit>
+      <trans-unit id="menu/previous-waypoint:0" approved="yes">
+        <source xml:space="preserve">Previous Waypoint</source>
+        <target xml:space="preserve">Waypoint precedente</target>
+      </trans-unit>
+      <trans-unit id="menu/print-rendering-statistics:0" approved="yes">
+        <source xml:space="preserve">Print Rendering Statistics</source>
+        <target xml:space="preserve">Stampa statistiche rendering</target>
+      </trans-unit>
+      <trans-unit id="menu/print-scene-info:0" approved="yes">
+        <source xml:space="preserve">Print Visible Scene Info</source>
+        <target xml:space="preserve">Stampa informazioni scena visibile</target>
+      </trans-unit>
+      <trans-unit id="menu/property-browser:0" approved="yes">
+        <source xml:space="preserve">Browse Internal Properties</source>
+        <target xml:space="preserve">Sfoglia proprietà interne</target>
+      </trans-unit>
+      <trans-unit id="menu/pushback:0" approved="yes">
+        <source xml:space="preserve">Pushback</source>
+        <target xml:space="preserve">Pushback</target>
+      </trans-unit>
+      <trans-unit id="menu/radio:0" approved="yes">
+        <source xml:space="preserve">Radio Settings</source>
+        <target xml:space="preserve">Impostazioni radio</target>
+      </trans-unit>
+      <trans-unit id="menu/random-attitude:0" approved="yes">
+        <source xml:space="preserve">Random Attitude</source>
+        <target xml:space="preserve">Attitudine casuale</target>
+      </trans-unit>
+      <trans-unit id="menu/random-failures:0" approved="yes">
+        <source xml:space="preserve">Random Failures</source>
+        <target xml:space="preserve">Guasti casuali</target>
+      </trans-unit>
+      <trans-unit id="menu/reload-autopilot:0" approved="yes">
+        <source xml:space="preserve">Reload Autopilot</source>
+        <target xml:space="preserve">Ricarica pilota automatico</target>
+      </trans-unit>
+      <trans-unit id="menu/reload-gui:0" approved="yes">
+        <source xml:space="preserve">Reload GUI</source>
+        <target xml:space="preserve">Ricarica interfaccia utente</target>
+      </trans-unit>
+      <trans-unit id="menu/reload-hud:0" approved="yes">
+        <source xml:space="preserve">Reload HUD</source>
+        <target xml:space="preserve">Ricarica HUD</target>
+      </trans-unit>
+      <trans-unit id="menu/reload-input:0" approved="yes">
+        <source xml:space="preserve">Reload Input</source>
+        <target xml:space="preserve">Ricarica input</target>
+      </trans-unit>
+      <trans-unit id="menu/reload-materials:0" approved="yes">
+        <source xml:space="preserve">Reload Materials</source>
+        <target xml:space="preserve">Ricarica materiali</target>
+      </trans-unit>
+      <trans-unit id="menu/reload-model:0" approved="yes">
+        <source xml:space="preserve">Reload Aircraft Model</source>
+        <target xml:space="preserve">Ricarica modello aereo</target>
+      </trans-unit>
+      <trans-unit id="menu/reload-network:0" approved="yes">
+        <source xml:space="preserve">Reload Network</source>
+        <target xml:space="preserve">Ricarica rete</target>
+      </trans-unit>
+      <trans-unit id="menu/reload-panel:0" approved="yes">
+        <source xml:space="preserve">Reload Panel</source>
+        <target xml:space="preserve">Ricarica pannello</target>
+      </trans-unit>
+      <trans-unit id="menu/reload-scenery:0" approved="yes">
+        <source xml:space="preserve">Reload Scenery</source>
+        <target xml:space="preserve">Ricarica scenario</target>
+      </trans-unit>
+      <trans-unit id="menu/rembrandt-buffers-choice:0" approved="yes">
+        <source xml:space="preserve">Select Rendering Buffers</source>
+        <target xml:space="preserve">Seleziona buffer rendering</target>
+      </trans-unit>
+      <trans-unit id="menu/rendering-buffers:0" approved="yes">
+        <source xml:space="preserve">Hide/Show Rendering Buffers</source>
+        <target xml:space="preserve">Mostra/nascondi buffer rendering</target>
+      </trans-unit>
+      <trans-unit id="menu/rendering-options:0" approved="yes">
+        <source xml:space="preserve">Rendering Options</source>
+        <target xml:space="preserve">Opzioni rendering</target>
+      </trans-unit>
+      <trans-unit id="menu/replay:0" approved="yes">
+        <source xml:space="preserve">Instant Replay</source>
+        <target xml:space="preserve">Replay istantaneo</target>
+      </trans-unit>
+      <trans-unit id="menu/reset:0" approved="yes">
+        <source xml:space="preserve">Reset</source>
+        <target xml:space="preserve">Reimposta</target>
+      </trans-unit>
+      <trans-unit id="menu/route-manager:0" approved="yes">
+        <source xml:space="preserve">Route Manager</source>
+        <target xml:space="preserve">Gestore rotta</target>
+      </trans-unit>
+      <trans-unit id="menu/save-tape:0" approved="yes">
+        <source xml:space="preserve">Save Flight Recorder Tape</source>
+        <target xml:space="preserve">Salva nastro registratore di volo</target>
+      </trans-unit>
+      <trans-unit id="menu/scenario:0" approved="yes">
+        <source xml:space="preserve">Traffic and Scenario Settings</source>
+        <target xml:space="preserve">Impostazioni traffico e scenario</target>
+      </trans-unit>
+      <trans-unit id="menu/select-livery:0" approved="yes">
+        <source xml:space="preserve">Select Livery</source>
+        <target xml:space="preserve">Seleziona livrea</target>
+      </trans-unit>
+      <trans-unit id="menu/show-hide-yokes:0" approved="yes">
+        <source xml:space="preserve">Show/hide yokes</source>
+        <target xml:space="preserve">Mostra/nascondi yoke</target>
+      </trans-unit>
+      <trans-unit id="menu/snap-shot:0" approved="yes">
+        <source xml:space="preserve">Screenshot</source>
+        <target xml:space="preserve">Cattura schermata</target>
+      </trans-unit>
+      <trans-unit id="menu/snap-shot-dir:0" approved="yes">
+        <source xml:space="preserve">Screenshot Directory</source>
+        <target xml:space="preserve">Directory salvataggio schermate</target>
+      </trans-unit>
+      <trans-unit id="menu/sound-config:0" approved="yes">
+        <source xml:space="preserve">Sound Configuration</source>
+        <target xml:space="preserve">Configurazione audio</target>
+      </trans-unit>
+      <trans-unit id="menu/statistics-display:0" approved="yes">
+        <source xml:space="preserve">Cycle On-Screen Statistics</source>
+        <target xml:space="preserve">Visualizza ciclicamente le statistiche a schermo</target>
+      </trans-unit>
+      <trans-unit id="menu/stereoscopic-options:0" approved="yes">
+        <source xml:space="preserve">Stereoscopic View Options</source>
+        <target xml:space="preserve">Opzioni visualizzazione stereoscopica</target>
+      </trans-unit>
+      <trans-unit id="menu/stopwatch:0" approved="yes">
+        <source xml:space="preserve">Stopwatch</source>
+        <target xml:space="preserve">Cronometro</target>
+      </trans-unit>
+      <trans-unit id="menu/swift_connection:0" approved="yes">
+        <source xml:space="preserve">swift Connection</source>
+        <target xml:space="preserve">Connessione swift</target>
+      </trans-unit>
+      <trans-unit id="menu/system-failures:0" approved="yes">
+        <source xml:space="preserve">System Failures</source>
+        <target xml:space="preserve">Guasti di sistema</target>
+      </trans-unit>
+      <trans-unit id="menu/tanker:0" approved="yes">
+        <source xml:space="preserve">Tanker Controls</source>
+        <target xml:space="preserve">Controlli rifornimento in volo</target>
+      </trans-unit>
+      <trans-unit id="menu/terrasync:0" approved="yes">
+        <source xml:space="preserve">Scenery Download</source>
+        <target xml:space="preserve">Download scenario</target>
+      </trans-unit>
+      <trans-unit id="menu/tiller-steering:0" approved="yes">
+        <source xml:space="preserve">Tiller Steering</source>
+        <target xml:space="preserve">Sterzata con il tiller</target>
+      </trans-unit>
+      <trans-unit id="menu/time-settings:0" approved="yes">
+        <source xml:space="preserve">Time Settings</source>
+        <target xml:space="preserve">Impostazioni orario</target>
+      </trans-unit>
+      <trans-unit id="menu/toggle-fullscreen:0" approved="yes">
+        <source xml:space="preserve">Toggle Fullscreen</source>
+        <target xml:space="preserve">Abilita/disabilita modalità schermo intero</target>
+      </trans-unit>
+      <trans-unit id="menu/toggle-glide-slope:0" approved="yes">
+        <source xml:space="preserve">Toggle Glide Slope Tunnel</source>
+        <target xml:space="preserve">Abilita/disabilita tunnel angolo di discesa</target>
+      </trans-unit>
+      <trans-unit id="menu/tower-position:0" approved="yes">
+        <source xml:space="preserve">Tower Position</source>
+        <target xml:space="preserve">Posizione della torre</target>
+      </trans-unit>
+      <trans-unit id="menu/tutorial-start:0" approved="yes">
+        <source xml:space="preserve">Tutorials</source>
+        <target xml:space="preserve">Tutorial</target>
+      </trans-unit>
+      <trans-unit id="menu/view:0" approved="yes">
+        <source xml:space="preserve">View</source>
+        <target xml:space="preserve">Visualizza</target>
+      </trans-unit>
+      <trans-unit id="menu/view-options:0" approved="yes">
+        <source xml:space="preserve">View Options</source>
+        <target xml:space="preserve">Opzioni visualizzazione</target>
+      </trans-unit>
+      <trans-unit id="menu/wildfire-settings:0" approved="yes">
+        <source xml:space="preserve">Wildfire Settings</source>
+        <target xml:space="preserve">Impostazioni incendi</target>
+      </trans-unit>
+      <trans-unit id="menu/wingman:0" approved="yes">
+        <source xml:space="preserve">Wingman Controls</source>
+        <target xml:space="preserve">Controlli volo in formazione</target>
+      </trans-unit>
+      <trans-unit id="menu/write-video-config:0" approved="yes">
+        <source xml:space="preserve">Save Video Configuration</source>
+        <target xml:space="preserve">Salva configurazione video</target>
+      </trans-unit>
+    </group>
+    <group restype="x-trolltech-linguist-context" resname="options">
+      <trans-unit id="options/AV400-desc:0" approved="yes">
+        <source xml:space="preserve">Emit the Garmin AV400 protocol required to drive a Garmin 196/296 series GPS</source>
+        <target xml:space="preserve">Emetti dati richiesti secondo il protocollo Garmin AV400 per comandare un GPS Garmin 196/296 series</target>
+      </trans-unit>
+      <trans-unit id="options/AV400Sim-desc:0" approved="yes">
+        <source xml:space="preserve">Emit the set of AV400 strings required to drive a Garmin 400-series GPS from FlightGear</source>
+        <target xml:space="preserve">Emetti l&apos;insieme delle stringhe AV400 richieste per comandare un GPS Garmin 400-series da FlightGear</target>
+      </trans-unit>
+      <trans-unit id="options/adf1-desc:0" approved="yes">
+        <source xml:space="preserve">Set the ADF1 radio frequency, optionally preceded by a card rotation.</source>
+        <target xml:space="preserve">Imposta la frequenza radio ADF1 preceduta facoltativamente da una rotazione della rosa graduata.</target>
+      </trans-unit>
+      <trans-unit id="options/adf2-desc:0" approved="yes">
+        <source xml:space="preserve">Set the ADF2 radio frequency, optionally preceded by a card rotation.</source>
+        <target xml:space="preserve">Imposta la frequenza radio ADF2 preceduta facoltativamente da una rotazione della rosa graduata.</target>
+      </trans-unit>
+      <trans-unit id="options/aero-desc:0" approved="yes">
+        <source xml:space="preserve">Select aircraft aerodynamics model to load</source>
+        <target xml:space="preserve">Seleziona il modello dell&apos;aerodinamica dell&apos;aereo da caricare</target>
+      </trans-unit>
+      <trans-unit id="options/ai-scenario:0" approved="yes">
+        <source xml:space="preserve">Add and enable a new scenario. Multiple options are allowed.</source>
+        <target xml:space="preserve">Aggiungi e abilita un nuovo scenario. È permesso specificare più di un&apos;opzione.</target>
+      </trans-unit>
+      <trans-unit id="options/aircraft-desc:0" approved="yes">
+        <source xml:space="preserve">Select an aircraft profile as defined by a top level &lt;name&gt;-set.xml</source>
+        <target xml:space="preserve">Seleziona un profilo di un aereo così come definito da un file &lt;name&gt;-set.xml situato nella directory principale</target>
+      </trans-unit>
+      <trans-unit id="options/aircraft-dir-desc:0" approved="yes">
+        <source xml:space="preserve">Specify the exact directory to use for the aircraft (normally not required, but may be useful). Interpreted relatively to the current directory. Causes the &lt;path-cache&gt; from autosave_X_Y.xml, as well as --fg-aircraft and the FG_AIRCRAFT environment variable to be bypassed.</source>
+        <target xml:space="preserve">Specifica la directory esatta da utilizzare per gli aerei (normalmente non richiesta, ma potrebbe essere utile). Questa è interpretata relativamente alla directory corrente. L&apos;impostazione fa sì che &lt;path-cache&gt; in autosave_X_Y.xml, così come --fg-aircraft e la variabile d&apos;ambiente FG_AIRCRAFT, vengano ignorati.</target>
+      </trans-unit>
+      <trans-unit id="options/aircraft-model-options:0" approved="yes">
+        <source xml:space="preserve">Aircraft model directory (UIUC FDM ONLY)</source>
+        <target xml:space="preserve">Directory modello aereo (SOLO FDM UIUC)</target>
+      </trans-unit>
+      <trans-unit id="options/aircraft-options:0" approved="yes">
+        <source xml:space="preserve">Aircraft</source>
+        <target xml:space="preserve">Aereo</target>
+      </trans-unit>
+      <trans-unit id="options/airport-desc:0" approved="yes">
+        <source xml:space="preserve">Specify starting position relative to an airport</source>
+        <target xml:space="preserve">Specifica una posizione iniziale relativa a un aeroporto</target>
+      </trans-unit>
+      <trans-unit id="options/altitude-desc:0" approved="yes">
+        <source xml:space="preserve">Starting altitude</source>
+        <target xml:space="preserve">Altitudine iniziale</target>
+      </trans-unit>
+      <trans-unit id="options/arm-desc:0" approved="yes">
+        <source xml:space="preserve">Specify a multiplier for the aspect ratio.</source>
+        <target xml:space="preserve">Specifica un moltiplicatore per il rapporto d&apos;aspetto.</target>
+      </trans-unit>
+      <trans-unit id="options/atcsim-desc:0" approved="yes">
+        <source xml:space="preserve">Open connection using the ATC sim protocol (atc610x)</source>
+        <target xml:space="preserve">Apri una connessione utilizzando il protocollo ATC sim (atc610x)</target>
+      </trans-unit>
+      <trans-unit id="options/atlas-desc:0" approved="yes">
+        <source xml:space="preserve">Open connection using the Atlas protocol</source>
+        <target xml:space="preserve">Apri una connessione utilizzando il protocollo Atlas</target>
+      </trans-unit>
+      <trans-unit id="options/audio-options:0" approved="yes">
+        <source xml:space="preserve">Audio Options</source>
+        <target xml:space="preserve">Opzioni audio</target>
+      </trans-unit>
+      <trans-unit id="options/avionics-options:0" approved="yes">
+        <source xml:space="preserve">Avionics Options</source>
+        <target xml:space="preserve">Opzioni avionica</target>
+      </trans-unit>
+      <trans-unit id="options/bpp-desc:0" approved="yes">
+        <source xml:space="preserve">Specify the bits per pixel</source>
+        <target xml:space="preserve">Specifica i bit per pixel</target>
+      </trans-unit>
+      <trans-unit id="options/browser-app-desc:0" approved="yes">
+        <source xml:space="preserve">Specify path to your web browser</source>
+        <target xml:space="preserve">Specifica il percorso al tuo browser Web</target>
+      </trans-unit>
+      <trans-unit id="options/callsign-desc:0" approved="yes">
+        <source xml:space="preserve">assign a unique name to a player</source>
+        <target xml:space="preserve">Assegna un nome unico a un giocatore</target>
+      </trans-unit>
+      <trans-unit id="options/carrier-abeam-desc:0" approved="yes">
+        <source xml:space="preserve">Start on downwind abeam the selected carrier (must also specify a carrier)</source>
+        <target xml:space="preserve">Avvia sottovento sulla portaerei selezionata (è necessario specificare anche una portaerei)</target>
+      </trans-unit>
+      <trans-unit id="options/carrier-desc:0" approved="yes">
+        <source xml:space="preserve">Specify starting position on an AI carrier</source>
+        <target xml:space="preserve">Specifica una posizione iniziale su una portaerei IA</target>
+      </trans-unit>
+      <trans-unit id="options/ceiling-desc:0" approved="yes">
+        <source xml:space="preserve">Create an overcast ceiling, optionally with a specific thickness (defaults to 2000 ft).</source>
+        <target xml:space="preserve">Crea un cielo coperto specificando facoltativamente lo spessore della coltre di nubi (impostazione predefinita: 2000 ft).</target>
+      </trans-unit>
+      <trans-unit id="options/com1-desc:0" approved="yes">
+        <source xml:space="preserve">Set the COM1 radio frequency</source>
+        <target xml:space="preserve">Imposta la frequenza radio COM1</target>
+      </trans-unit>
+      <trans-unit id="options/com2-desc:0" approved="yes">
+        <source xml:space="preserve">Set the COM2 radio frequency</source>
+        <target xml:space="preserve">Imposta la frequenza radio COM2</target>
+      </trans-unit>
+      <trans-unit id="options/config-desc:0" approved="yes">
+        <source xml:space="preserve">Load additional properties from path</source>
+        <target xml:space="preserve">Carica proprietà aggiuntive dal percorso</target>
+      </trans-unit>
+      <trans-unit id="options/console-desc:0" approved="yes">
+        <source xml:space="preserve">Display console (Windows specific)</source>
+        <target xml:space="preserve">Visualizza la console (opzione specifica per Windows)</target>
+      </trans-unit>
+      <trans-unit id="options/debugging-options:0" approved="yes">
+        <source xml:space="preserve">Debugging Options</source>
+        <target xml:space="preserve">Opzioni di debug</target>
+      </trans-unit>
+      <trans-unit id="options/disable-ai-models-desc:0" approved="yes">
+        <source xml:space="preserve">Deprecated option (disable internal AI subsystem)</source>
+        <target xml:space="preserve">Opzione deprecata (disabilita il sottosistema IA interno)</target>
+      </trans-unit>
+      <trans-unit id="options/disable-ai-traffic-desc:0" approved="yes">
+        <source xml:space="preserve">Disable artificial traffic.</source>
+        <target xml:space="preserve">Disabilita il traffico artificiale.</target>
+      </trans-unit>
+      <trans-unit id="options/disable-anti-alias-hud-desc:0" approved="yes">
+        <source xml:space="preserve">Disable anti-aliased HUD</source>
+        <target xml:space="preserve">Disabilita HUD con antialias</target>
+      </trans-unit>
+      <trans-unit id="options/disable-auto-coordination-desc:0" approved="yes">
+        <source xml:space="preserve">Disable auto coordination</source>
+        <target xml:space="preserve">Disabilita coordinazione automatica</target>
+      </trans-unit>
+      <trans-unit id="options/disable-clock-freeze-desc:0" approved="yes">
+        <source xml:space="preserve">Clock advances normally</source>
+        <target xml:space="preserve">L&apos;orologio avanza normalmente</target>
+      </trans-unit>
+      <trans-unit id="options/disable-clouds-desc:0" approved="yes">
+        <source xml:space="preserve">Disable 2D (flat) cloud layers</source>
+        <target xml:space="preserve">Disabilita strati di nuvole 2D (piatti)</target>
+      </trans-unit>
+      <trans-unit id="options/disable-clouds3d-desc:0" approved="yes">
+        <source xml:space="preserve">Disable 3D (volumetric) cloud layers</source>
+        <target xml:space="preserve">Disabilita strati di nuvole 3D (volumetrici)</target>
+      </trans-unit>
+      <trans-unit id="options/disable-distance-attenuation:0" approved="yes">
+        <source xml:space="preserve">Disable runway light distance attenuation</source>
+        <target xml:space="preserve">Disabilita attenuazione a distanza delle luci sulla pista</target>
+      </trans-unit>
+      <trans-unit id="options/disable-enhanced-lighting:0" approved="yes">
+        <source xml:space="preserve">Disable enhanced runway lighting</source>
+        <target xml:space="preserve">Disabilita illuminazione pista intensificata</target>
+      </trans-unit>
+      <trans-unit id="options/disable-fgcom-desc:0" approved="yes">
+        <source xml:space="preserve">Disable FGCom built-in</source>
+        <target xml:space="preserve">Disabilita FGCom integrato</target>
+      </trans-unit>
+      <trans-unit id="options/disable-freeze-desc:0" approved="yes">
+        <source xml:space="preserve">Start in a running state</source>
+        <target xml:space="preserve">Inizia in modalità attiva</target>
+      </trans-unit>
+      <trans-unit id="options/disable-fuel-freeze-desc:0" approved="yes">
+        <source xml:space="preserve">Fuel is consumed normally</source>
+        <target xml:space="preserve">Il carburante viene consumato normalmente</target>
+      </trans-unit>
+      <trans-unit id="options/disable-fullscreen-desc:0" approved="yes">
+        <source xml:space="preserve">Disable fullscreen mode</source>
+        <target xml:space="preserve">Disabilita modalità schermo intero</target>
+      </trans-unit>
+      <trans-unit id="options/disable-horizon-effect:0" approved="yes">
+        <source xml:space="preserve">Disable celestial body growth illusion near the horizon</source>
+        <target xml:space="preserve">Disabilita l&apos;illusione della crescita dei corpi celesti vicino all&apos;orizzonte</target>
+      </trans-unit>
+      <trans-unit id="options/disable-hud-3d-desc:0" approved="yes">
+        <source xml:space="preserve">Disable 3D HUD</source>
+        <target xml:space="preserve">Disabilita HUD 3D</target>
+      </trans-unit>
+      <trans-unit id="options/disable-hud-desc:0" approved="yes">
+        <source xml:space="preserve">Disable Heads Up Display (HUD)</source>
+        <target xml:space="preserve">Disabilita Head Up Display (HUD)</target>
+      </trans-unit>
+      <trans-unit id="options/disable-mouse-pointer-desc:0" approved="yes">
+        <source xml:space="preserve">Disable extra mouse pointer</source>
+        <target xml:space="preserve">Disabilita cursore mouse aggiuntivo</target>
+      </trans-unit>
+      <trans-unit id="options/disable-panel-desc:0" approved="yes">
+        <source xml:space="preserve">Disable instrument panel</source>
+        <target xml:space="preserve">Disabilita pannello strumenti</target>
+      </trans-unit>
+      <trans-unit id="options/disable-random-buildings-desc:0" approved="yes">
+        <source xml:space="preserve">Exclude random buildings objects</source>
+        <target xml:space="preserve">Escludi oggetti edificio casuali</target>
+      </trans-unit>
+      <trans-unit id="options/disable-random-objects-desc:0" approved="yes">
+        <source xml:space="preserve">Exclude random scenery objects</source>
+        <target xml:space="preserve">Escludi oggetti casuali nello scenario</target>
+      </trans-unit>
+      <trans-unit id="options/disable-random-vegetation-desc:0" approved="yes">
+        <source xml:space="preserve">Exclude random vegetation objects</source>
+        <target xml:space="preserve">Escludi oggetti vegetazione casuali</target>
+      </trans-unit>
+      <trans-unit id="options/disable-real-weather-fetch-desc:0" approved="yes">
+        <source xml:space="preserve">Disable METAR based real weather fetching</source>
+        <target xml:space="preserve">Disabilita recupero condizioni meteo reali basate su METAR</target>
+      </trans-unit>
+      <trans-unit id="options/disable-rembrandt-desc:0" approved="yes">
+        <source xml:space="preserve">Disable Rembrandt rendering</source>
+        <target xml:space="preserve">Disabilita rendering Rembrandt</target>
+      </trans-unit>
+      <trans-unit id="options/disable-save-on-exit:0" approved="yes">
+        <source xml:space="preserve">Don&apos;t save preferences upon program exit</source>
+        <target xml:space="preserve">Non salvare le impostazioni all&apos;uscita dal programma</target>
+      </trans-unit>
+      <trans-unit id="options/disable-sound-desc:0" approved="yes">
+        <source xml:space="preserve">Disable sound effects</source>
+        <target xml:space="preserve">Disabilita effetti sonori</target>
+      </trans-unit>
+      <trans-unit id="options/disable-specular-highlight:0" approved="yes">
+        <source xml:space="preserve">Disable specular reflections on textured objects</source>
+        <target xml:space="preserve">Disabilita riflessioni speculari su oggetti con texture</target>
+      </trans-unit>
+      <trans-unit id="options/disable-splash-screen-desc:0" approved="yes">
+        <source xml:space="preserve">Disable splash screen</source>
+        <target xml:space="preserve">Disabilita la schermata iniziale</target>
+      </trans-unit>
+      <trans-unit id="options/disable-terrasync-desc:0" approved="yes">
+        <source xml:space="preserve">Disable automatic scenery downloads/updates</source>
+        <target xml:space="preserve">Disabilita download/aggiornamenti scenario automatici</target>
+      </trans-unit>
+      <trans-unit id="options/disable-textures-desc:0" approved="yes">
+        <source xml:space="preserve">Disable textures</source>
+        <target xml:space="preserve">Disabilita texture</target>
+      </trans-unit>
+      <trans-unit id="options/disable-wireframe-desc:0" approved="yes">
+        <source xml:space="preserve">Disable wireframe drawing mode</source>
+        <target xml:space="preserve">Disabilita modalità di disegno wireframe</target>
+      </trans-unit>
+      <trans-unit id="options/dme-desc:0" approved="yes">
+        <source xml:space="preserve">Slave the DME to one of the NAV radios, or set its internal frequency.</source>
+        <target xml:space="preserve">Fai dipendere il DME da una delle radio NAV o imposta la sua frequenza interna.</target>
+      </trans-unit>
+      <trans-unit id="options/download-dir-desc:0" approved="yes">
+        <source xml:space="preserve">Base directory to use for aircraft and scenery downloads (the TerraSync scenery directory may be specifically set with --terrasync-dir)</source>
+        <target xml:space="preserve">Directory base da utilizzare per i download degli aerei e dello scenario (la directory dello scenario TerraSync può essere impostata esplicitamente con l&apos;opzione --terrasync-dir)</target>
+      </trans-unit>
+      <trans-unit id="options/enable-ai-models-desc:0" approved="yes">
+        <source xml:space="preserve">Enable AI subsystem (required for multi-player, AI traffic and many other animations)</source>
+        <target xml:space="preserve">Abilita il sottosistema IA (richiesto per la modalità multigiocatore, il traffico IA e molte altre animazioni)</target>
+      </trans-unit>
+      <trans-unit id="options/enable-ai-traffic-desc:0" approved="yes">
+        <source xml:space="preserve">Enable artificial traffic.</source>
+        <target xml:space="preserve">Abilita il traffico artificiale.</target>
+      </trans-unit>
+      <trans-unit id="options/enable-anti-alias-hud-desc:0" approved="yes">
+        <source xml:space="preserve">Enable anti-aliased HUD</source>
+        <target xml:space="preserve">Abilita HUD con antialias</target>
+      </trans-unit>
+      <trans-unit id="options/enable-auto-coordination-desc:0" approved="yes">
+        <source xml:space="preserve">Enable auto coordination</source>
+        <target xml:space="preserve">Abilita coordinazione automatica</target>
+      </trans-unit>
+      <trans-unit id="options/enable-clock-freeze-desc:0" approved="yes">
+        <source xml:space="preserve">Do not advance clock</source>
+        <target xml:space="preserve">Non far avanzare l&apos;orologio</target>
+      </trans-unit>
+      <trans-unit id="options/enable-clouds-desc:0" approved="yes">
+        <source xml:space="preserve">Enable 2D (flat) cloud layers</source>
+        <target xml:space="preserve">Abilita strati di nuvole 2D (piatti)</target>
+      </trans-unit>
+      <trans-unit id="options/enable-clouds3d-desc:0" approved="yes">
+        <source xml:space="preserve">Enable 3D (volumetric) cloud layers</source>
+        <target xml:space="preserve">Abilita strati di nuvole 3D (volumetrici)</target>
+      </trans-unit>
+      <trans-unit id="options/enable-distance-attenuation:0" approved="yes">
+        <source xml:space="preserve">Enable runway light distance attenuation</source>
+        <target xml:space="preserve">Abilita attenuazione a distanza delle luci sulla pista</target>
+      </trans-unit>
+      <trans-unit id="options/enable-enhanced-lighting:0" approved="yes">
+        <source xml:space="preserve">Enable enhanced runway lighting</source>
+        <target xml:space="preserve">Abilita illuminazione pista intensificata</target>
+      </trans-unit>
+      <trans-unit id="options/enable-fgcom-desc:0" approved="yes">
+        <source xml:space="preserve">Enable FGCom built-in</source>
+        <target xml:space="preserve">Abilita FGCom integrato</target>
+      </trans-unit>
+      <trans-unit id="options/enable-freeze-desc:0" approved="yes">
+        <source xml:space="preserve">Start in a frozen state</source>
+        <target xml:space="preserve">Inizia in modalità congelata</target>
+      </trans-unit>
+      <trans-unit id="options/enable-fuel-freeze-desc:0" approved="yes">
+        <source xml:space="preserve">Fuel tank quantity forced to remain constant</source>
+        <target xml:space="preserve">La quantità di carburante nei serbatoi viene mantenuta forzatamente costante</target>
+      </trans-unit>
+      <trans-unit id="options/enable-fullscreen-desc:0" approved="yes">
+        <source xml:space="preserve">Enable fullscreen mode</source>
+        <target xml:space="preserve">Abilita modalità schermo intero</target>
+      </trans-unit>
+      <trans-unit id="options/enable-horizon-effect:0" approved="yes">
+        <source xml:space="preserve">Enable celestial body growth illusion near the horizon</source>
+        <target xml:space="preserve">Abilita l&apos;illusione della crescita dei corpi celesti vicino all&apos;orizzonte</target>
+      </trans-unit>
+      <trans-unit id="options/enable-hud-3d-desc:0" approved="yes">
+        <source xml:space="preserve">Enable 3D HUD</source>
+        <target xml:space="preserve">Abilita HUD 3D</target>
+      </trans-unit>
+      <trans-unit id="options/enable-hud-desc:0" approved="yes">
+        <source xml:space="preserve">Enable Heads Up Display (HUD)</source>
+        <target xml:space="preserve">Abilita Head Up Display (HUD)</target>
+      </trans-unit>
+      <trans-unit id="options/enable-mouse-pointer-desc:0" approved="yes">
+        <source xml:space="preserve">Enable extra mouse pointer</source>
+        <target xml:space="preserve">Abilita cursore mouse aggiuntivo</target>
+      </trans-unit>
+      <trans-unit id="options/enable-mouse-pointer-desc:1" approved="yes">
+        <source xml:space="preserve">(i.e. for full screen Voodoo based cards)</source>
+        <target xml:space="preserve">(ad es. per la modalità a schermo intero su schede grafiche basate su Voodoo)</target>
+      </trans-unit>
+      <trans-unit id="options/enable-panel-desc:0" approved="yes">
+        <source xml:space="preserve">Enable instrument panel</source>
+        <target xml:space="preserve">Abilita pannello strumenti</target>
+      </trans-unit>
+      <trans-unit id="options/enable-random-buildings-desc:0" approved="yes">
+        <source xml:space="preserve">Include random buildings objects</source>
+        <target xml:space="preserve">Includi oggetti edificio casuali</target>
+      </trans-unit>
+      <trans-unit id="options/enable-random-objects-desc:0" approved="yes">
+        <source xml:space="preserve">Include random scenery objects</source>
+        <target xml:space="preserve">Includi oggetti casuali nello scenario</target>
+      </trans-unit>
+      <trans-unit id="options/enable-random-vegetation-desc:0" approved="yes">
+        <source xml:space="preserve">Include random vegetation objects</source>
+        <target xml:space="preserve">Includi oggetti vegetazione casuali</target>
+      </trans-unit>
+      <trans-unit id="options/enable-real-weather-fetch-desc:0" approved="yes">
+        <source xml:space="preserve">Enable METAR based real weather fetching (this requires an open internet connection)</source>
+        <target xml:space="preserve">Abilita recupero condizioni meteo reali basate su METAR (richiede una connessione a Internet attiva)</target>
+      </trans-unit>
+      <trans-unit id="options/enable-rembrandt-desc:0" approved="yes">
+        <source xml:space="preserve">Enable Rembrandt rendering</source>
+        <target xml:space="preserve">Abilita rendering Rembrandt</target>
+      </trans-unit>
+      <trans-unit id="options/enable-save-on-exit:0" approved="yes">
+        <source xml:space="preserve">Allow saving preferences at program exit</source>
+        <target xml:space="preserve">Abilita il salvataggio delle impostazioni all&apos;uscita dal programma</target>
+      </trans-unit>
+      <trans-unit id="options/enable-sound-desc:0" approved="yes">
+        <source xml:space="preserve">Enable sound effects</source>
+        <target xml:space="preserve">Abilita effetti sonori</target>
+      </trans-unit>
+      <trans-unit id="options/enable-specular-highlight:0" approved="yes">
+        <source xml:space="preserve">Enable specular reflections on textured objects</source>
+        <target xml:space="preserve">Abilita riflessioni speculari su oggetti con texture</target>
+      </trans-unit>
+      <trans-unit id="options/enable-splash-screen-desc:0" approved="yes">
+        <source xml:space="preserve">Enable splash screen</source>
+        <target xml:space="preserve">Abilita la schermata iniziale</target>
+      </trans-unit>
+      <trans-unit id="options/enable-terrasync-desc:0" approved="yes">
+        <source xml:space="preserve">Enable automatic scenery downloads/updates</source>
+        <target xml:space="preserve">Abilita download/aggiornamenti scenario automatici</target>
+      </trans-unit>
+      <trans-unit id="options/enable-textures-desc:0" approved="yes">
+        <source xml:space="preserve">Enable textures</source>
+        <target xml:space="preserve">Abilita texture</target>
+      </trans-unit>
+      <trans-unit id="options/enable-wireframe-desc:0" approved="yes">
+        <source xml:space="preserve">Enable wireframe drawing mode</source>
+        <target xml:space="preserve">Abilita modalità di disegno wireframe</target>
+      </trans-unit>
+      <trans-unit id="options/environment-options:0" approved="yes">
+        <source xml:space="preserve">Environment Options</source>
+        <target xml:space="preserve">Opzioni ambiente</target>
+      </trans-unit>
+      <trans-unit id="options/failure-desc:0" approved="yes">
+        <source xml:space="preserve">Fail the pitot, static, vacuum, or electrical system (repeat the option for multiple system failures).</source>
+        <target xml:space="preserve">Fai guastare i sistemi pitot, statico, del vuoto o elettrico (specifica più volte l&apos;opzione per far guastare più di un sistema).</target>
+      </trans-unit>
+      <trans-unit id="options/fdm-desc:0" approved="yes">
+        <source xml:space="preserve">Select the core flight dynamics model</source>
+        <target xml:space="preserve">Seleziona il modello principale della dinamica di volo</target>
+      </trans-unit>
+      <trans-unit id="options/fdm-desc:1" approved="yes">
+        <source xml:space="preserve">Can be one of jsb, larcsim, yasim, magic, balloon, ada, external, or null</source>
+        <target xml:space="preserve">Può essere jsb, larcsim, yasim, magic, balloon, ada, external o null</target>
+      </trans-unit>
+      <trans-unit id="options/fdm-options:0" approved="yes">
+        <source xml:space="preserve">Flight Model</source>
+        <target xml:space="preserve">Modello di volo</target>
+      </trans-unit>
+      <trans-unit id="options/features-options:0" approved="yes">
+        <source xml:space="preserve">Features</source>
+        <target xml:space="preserve">Caratteristiche</target>
+      </trans-unit>
+      <trans-unit id="options/fg-aircraft-desc:0" approved="yes">
+        <source xml:space="preserve">Specify additional aircraft directory path(s) (alternatively, you can use --aircraft-dir to target a specific aircraft in a given directory)</source>
+        <target xml:space="preserve">Specifica percorsi aggiuntivi directory aerei (in alternativa, puoi utilizzare --aircraft-dir per specificare un determinato aereo in una directory data)</target>
+      </trans-unit>
+      <trans-unit id="options/fg-root-desc:0" approved="yes">
+        <source xml:space="preserve">Specify the root data path</source>
+        <target xml:space="preserve">Specifica la radice del percorso dati</target>
+      </trans-unit>
+      <trans-unit id="options/fg-scenery-desc:0" approved="yes">
+        <source xml:space="preserve">Specify the scenery path(s);</source>
+        <target xml:space="preserve">Specifica i percorsi per lo scenario/gli scenari;</target>
+      </trans-unit>
+      <trans-unit id="options/fg-scenery-desc:1" approved="yes">
+        <source xml:space="preserve">Defaults to $FG_ROOT/Scenery</source>
+        <target xml:space="preserve">impostazione predefinita: $FG_ROOT/Scenery</target>
+      </trans-unit>
+      <trans-unit id="options/fgviewer-desc:0" approved="yes">
+        <source xml:space="preserve">Use a model viewer rather than load the entire simulator;</source>
+        <target xml:space="preserve">Utilizza un visualizzatore di modelli anziché caricare l&apos;intero simulatore;</target>
+      </trans-unit>
+      <trans-unit id="options/fix-desc:0" approved="yes">
+        <source xml:space="preserve">Specify starting position relative to a fix</source>
+        <target xml:space="preserve">Specifica la posizione iniziale relativa a un fix</target>
+      </trans-unit>
+      <trans-unit id="options/flarm-desc:0" approved="yes">
+        <source xml:space="preserve">Open connection using the Flarm protocol, which includes NMEA/GPS and traffic reporting messages</source>
+        <target xml:space="preserve">Apri una connessione utilizzando il protocollo Flarm, che include messaggi NMEA/GPS e di segnalazione del traffico</target>
+      </trans-unit>
+      <trans-unit id="options/flight-plan-desc:0" approved="yes">
+        <source xml:space="preserve">Read all waypoints from a file</source>
+        <target xml:space="preserve">Leggi tutti i waypoint da un file</target>
+      </trans-unit>
+      <trans-unit id="options/fog-disable-desc:0" approved="yes">
+        <source xml:space="preserve">Disable fog/haze</source>
+        <target xml:space="preserve">Disabilita nebbia/foschia</target>
+      </trans-unit>
+      <trans-unit id="options/fog-fastest-desc:0" approved="yes">
+        <source xml:space="preserve">Enable fastest fog/haze</source>
+        <target xml:space="preserve">Abilita la nebbia/foschia più veloce</target>
+      </trans-unit>
+      <trans-unit id="options/fog-nicest-desc:0" approved="yes">
+        <source xml:space="preserve">Enable nicest fog/haze</source>
+        <target xml:space="preserve">Abilita la nebbia/foschia migliore</target>
+      </trans-unit>
+      <trans-unit id="options/fov-desc:0" approved="yes">
+        <source xml:space="preserve">Specify field of view angle</source>
+        <target xml:space="preserve">Specifica angolo campo visivo</target>
+      </trans-unit>
+      <trans-unit id="options/fpe-desc:0" approved="yes">
+        <source xml:space="preserve">Abort on encountering a floating point exception;</source>
+        <target xml:space="preserve">Termina l&apos;esecuzione al verificarsi di un&apos;eccezione floating point;</target>
+      </trans-unit>
+      <trans-unit id="options/garmin-desc:0" approved="yes">
+        <source xml:space="preserve">Open connection using the Garmin GPS protocol</source>
+        <target xml:space="preserve">Apri una connessione utilizzando il protocollo Garmin GPS</target>
+      </trans-unit>
+      <trans-unit id="options/general-options:0" approved="yes">
+        <source xml:space="preserve">General Options</source>
+        <target xml:space="preserve">Opzioni generali</target>
+      </trans-unit>
+      <trans-unit id="options/generic-desc:0" approved="yes">
+        <source xml:space="preserve">Open connection using a predefined communication interface and a preselected communication protocol</source>
+        <target xml:space="preserve">Apri una connessione utilizzando un&apos;interfaccia di comunicazione predefinita e un protocollo di comunicazione preselezionato</target>
+      </trans-unit>
+      <trans-unit id="options/geometry-desc:0" approved="yes">
+        <source xml:space="preserve">Specify window geometry (640x480, etc)</source>
+        <target xml:space="preserve">Specifica geometria della finestra (640x480, ecc.)</target>
+      </trans-unit>
+      <trans-unit id="options/glideslope-desc:0" approved="yes">
+        <source xml:space="preserve">Specify flight path angle (can be positive)</source>
+        <target xml:space="preserve">Specifica l&apos;angolo del percorso di volo (può essere positivo)</target>
+      </trans-unit>
+      <trans-unit id="options/heading-desc:0" approved="yes">
+        <source xml:space="preserve">Specify heading (yaw) angle (Psi)</source>
+        <target xml:space="preserve">Specifica l&apos;angolo di imbardata (Psi)</target>
+      </trans-unit>
+      <trans-unit id="options/help-desc:0" approved="yes">
+        <source xml:space="preserve">Show the most relevant command line options</source>
+        <target xml:space="preserve">Visualizza le opzioni della riga di comando più pertinenti</target>
+      </trans-unit>
+      <trans-unit id="options/httpd-desc:0" approved="yes">
+        <source xml:space="preserve">Enable http server on the specified address. Specify the port or address:port to bind to.</source>
+        <target xml:space="preserve">Abilita server HTTP sull&apos;indirizzo specificato. Specifica la porta o l&apos;indirizzo:porta su cui eseguire il binding.</target>
+      </trans-unit>
+      <trans-unit id="options/hud-culled-desc:0" approved="yes">
+        <source xml:space="preserve">Hud displays percentage of triangles culled</source>
+        <target xml:space="preserve">L&apos;HUD visualizza la percentuale dei triangoli eliminati</target>
+      </trans-unit>
+      <trans-unit id="options/hud-options:0" approved="yes">
+        <source xml:space="preserve">Hud Options</source>
+        <target xml:space="preserve">Opzioni HUD</target>
+      </trans-unit>
+      <trans-unit id="options/hud-tris-desc:0" approved="yes">
+        <source xml:space="preserve">Hud displays number of triangles rendered</source>
+        <target xml:space="preserve">L&apos;HUD visualizza il numero di triangoli renderizzati</target>
+      </trans-unit>
+      <trans-unit id="options/in-air-desc:0" approved="yes">
+        <source xml:space="preserve">Start in air (implied when using --altitude)</source>
+        <target xml:space="preserve">Inizia in volo (implicito quando si utilizza l&apos;opzione --altitude)</target>
+      </trans-unit>
+      <trans-unit id="options/io-options:0" approved="yes">
+        <source xml:space="preserve">IO Options</source>
+        <target xml:space="preserve">Opzioni I/O</target>
+      </trans-unit>
+      <trans-unit id="options/joyclient-desc:0" approved="yes">
+        <source xml:space="preserve">Open connection to an Agwagon joystick</source>
+        <target xml:space="preserve">Apri una connessione a un joystick Agwagon</target>
+      </trans-unit>
+      <trans-unit id="options/jpg-httpd-desc:0" approved="yes">
+        <source xml:space="preserve">Enable screen shot http server on the specified port (replaced by --httpd)</source>
+        <target xml:space="preserve">Abilita server HTTP per le schermate sulla porta specificata (rimpiazzato da --httpd)</target>
+      </trans-unit>
+      <trans-unit id="options/jsclient-desc:0" approved="yes">
+        <source xml:space="preserve">Open connection to a remote joystick</source>
+        <target xml:space="preserve">Apri una connessione a un joystick remoto</target>
+      </trans-unit>
+      <trans-unit id="options/json-report-desc:0" approved="yes">
+        <source xml:space="preserve">Print a report in JSON format on the standard output, giving information such as the FlightGear version, $FG_ROOT, $FG_HOME, aircraft and scenery paths, etc.</source>
+        <target xml:space="preserve">Stampa sullo standard output un report in formato JSON che fornisce informazioni quali la versione di FlightGear, $FG_ROOT, $FG_HOME, i percorsi per gli aerei e gli scenari, ecc.</target>
+      </trans-unit>
+      <trans-unit id="options/language-desc:0" approved="yes">
+        <source xml:space="preserve">Select the language for this session</source>
+        <target xml:space="preserve">Seleziona la lingua per questa sessione</target>
+      </trans-unit>
+      <trans-unit id="options/lat-desc:0" approved="yes">
+        <source xml:space="preserve">Starting latitude (south = -)</source>
+        <target xml:space="preserve">Latitudine iniziale (sud = -)</target>
+      </trans-unit>
+      <trans-unit id="options/launcher-desc:0" approved="yes">
+        <source xml:space="preserve">Use GUI launcher</source>
+        <target xml:space="preserve">Utilizza interfaccia grafica per l&apos;avvio</target>
+      </trans-unit>
+      <trans-unit id="options/livery-desc:0" approved="yes">
+        <source xml:space="preserve">Select aircraft livery</source>
+        <target xml:space="preserve">Seleziona la livrea dell&apos;aereo</target>
+      </trans-unit>
+      <trans-unit id="options/load-tape-desc:0" approved="yes">
+        <source xml:space="preserve">Load recording of earlier flightgear session</source>
+        <target xml:space="preserve">Carica la registrazione di una sessione FlightGear precedente</target>
+      </trans-unit>
+      <trans-unit id="options/log-class-desc:0" approved="yes">
+        <source xml:space="preserve">Specify which logging class(es) to use</source>
+        <target xml:space="preserve">Specifica le classi di log da utilizzare</target>
+      </trans-unit>
+      <trans-unit id="options/log-dir-desc:0" approved="yes">
+        <source xml:space="preserve">Log to directory DIR. The special value &apos;desktop&apos; causes logging to the desktop (OS-dependent location). This option may be given several times, using a different value each time. Inside the specified directory, the written log file is named FlightGear_YYYY-MM-DD_&lt;num&gt;.log, where &lt;num&gt; takes the values 0, 1, 2, etc.</source>
+        <target xml:space="preserve">Salva i file di registro nella directory DIR. Il valore speciale &apos;desktop&apos; salva i file di registro sul Desktop (la posizione dipende dal sistema operativo). Quest&apos;opzione può essere specificata più volte specificando ogni volta un valore differente. All&apos;interno della directory specificata, il file di registro è denominato FlightGear_YYYY-MM-DD_&lt;num&gt;.log, dove &lt;num&gt; assume i valori 0, 1, 2, ecc.</target>
+      </trans-unit>
+      <trans-unit id="options/log-level-desc:0" approved="yes">
+        <source xml:space="preserve">Specify which logging level to use</source>
+        <target xml:space="preserve">Specifica il livello di log da utilizzare</target>
+      </trans-unit>
+      <trans-unit id="options/lon-desc:0" approved="yes">
+        <source xml:space="preserve">Starting longitude (west = -)</source>
+        <target xml:space="preserve">Longitudine iniziale (ovest = -)</target>
+      </trans-unit>
+      <trans-unit id="options/mach-desc:0" approved="yes">
+        <source xml:space="preserve">Specify initial mach number</source>
+        <target xml:space="preserve">Specifica il numero di Mach iniziale</target>
+      </trans-unit>
+      <trans-unit id="options/materials-file-desc:0" approved="yes">
+        <source xml:space="preserve">Specify the materials file used to render the scenery (default: Materials/regions/materials.xml)</source>
+        <target xml:space="preserve">Specifica il file dei materiali da utilizzare per eseguire il rendering dello scenario (impostazione predefinita: Materials/regions/materials.xml)</target>
+      </trans-unit>
+      <trans-unit id="options/max-fps-desc:0" approved="yes">
+        <source xml:space="preserve">Maximum frame rate in Hz.</source>
+        <target xml:space="preserve">Frame rate massimo in Hz.</target>
+      </trans-unit>
+      <trans-unit id="options/metar-desc:0" approved="yes">
+        <source xml:space="preserve">Pass a METAR string to set up static weather (this implies --disable-real-weather-fetch)</source>
+        <target xml:space="preserve">Fornisci una stringa METAR per impostare le condizioni meteo statiche (quest&apos;opzione implica --disable-real-weather-fetch)</target>
+      </trans-unit>
+      <trans-unit id="options/min-aircraft-status:0" approved="yes">
+        <source xml:space="preserve">Allows you to define a minimum status level (=development status) for all listed aircraft</source>
+        <target xml:space="preserve">Consente di definire un livello di stato minimo (=stato di sviluppo) per tutti gli aerei elencati</target>
+      </trans-unit>
+      <trans-unit id="options/model-hz-desc:0" approved="yes">
+        <source xml:space="preserve">Run the FDM this rate (iterations per second)</source>
+        <target xml:space="preserve">Esegui l&apos;FDM a questa frequenza (iterazioni al secondo)</target>
+      </trans-unit>
+      <trans-unit id="options/multiplay-desc:0" approved="yes">
+        <source xml:space="preserve">Specify multipilot communication settings</source>
+        <target xml:space="preserve">Specifica impostazioni di comunicazione multipilota</target>
+      </trans-unit>
+      <trans-unit id="options/multiplayer-options:0" approved="yes">
+        <source xml:space="preserve">MultiPlayer Options</source>
+        <target xml:space="preserve">Opzioni multigiocatore</target>
+      </trans-unit>
+      <trans-unit id="options/native-ctrls-desc:0" approved="yes">
+        <source xml:space="preserve">Open connection using the FG Native Controls protocol</source>
+        <target xml:space="preserve">Apri una connessione utilizzando il protocollo FG Native Controls</target>
+      </trans-unit>
+      <trans-unit id="options/native-desc:0" approved="yes">
+        <source xml:space="preserve">Open connection using the FG Native protocol</source>
+        <target xml:space="preserve">Apri una connessione utilizzando il protocollo FG Native</target>
+      </trans-unit>
+      <trans-unit id="options/native-fdm-desc:0" approved="yes">
+        <source xml:space="preserve">Open connection using the FG Native FDM protocol</source>
+        <target xml:space="preserve">Apri una connessione utilizzando il protocollo FG Native FDM</target>
+      </trans-unit>
+      <trans-unit id="options/native-gui-desc:0" approved="yes">
+        <source xml:space="preserve">Open connection using the FG Native GUI protocol</source>
+        <target xml:space="preserve">Apri una connessione utilizzando il protocollo FG Native GUI</target>
+      </trans-unit>
+      <trans-unit id="options/nav1-desc:0" approved="yes">
+        <source xml:space="preserve">Set the NAV1 radio frequency, optionally preceded by a radial.</source>
+        <target xml:space="preserve">Imposta la frequenza radio NAV1 preceduta facoltativamente da un radiale.</target>
+      </trans-unit>
+      <trans-unit id="options/nav2-desc:0" approved="yes">
+        <source xml:space="preserve">Set the NAV2 radio frequency, optionally preceded by a radial.</source>
+        <target xml:space="preserve">Imposta la frequenza radio NAV2 preceduta facoltativamente da un radiale.</target>
+      </trans-unit>
+      <trans-unit id="options/ndb-desc:0" approved="yes">
+        <source xml:space="preserve">Specify starting position relative to an NDB</source>
+        <target xml:space="preserve">Specifica la posizione iniziale relativa a un NDB</target>
+      </trans-unit>
+      <trans-unit id="options/ndb-freq-desc:0" approved="yes">
+        <source xml:space="preserve">Specify the frequency of the NDB. Use with --ndb=ID</source>
+        <target xml:space="preserve">Specifica la frequenza dell&apos;NDB. Utilizza l&apos;opzione insieme a --ndb=ID</target>
+      </trans-unit>
+      <trans-unit id="options/network-options:0" approved="yes">
+        <source xml:space="preserve">Network Options</source>
+        <target xml:space="preserve">Opzioni di rete</target>
+      </trans-unit>
+      <trans-unit id="options/nmea-desc:0" approved="yes">
+        <source xml:space="preserve">Open connection using the NMEA protocol</source>
+        <target xml:space="preserve">Apri una connessione utilizzando il protocollo NMEA</target>
+      </trans-unit>
+      <trans-unit id="options/notrim-desc:0" approved="yes">
+        <source xml:space="preserve">Do NOT attempt to trim the model</source>
+        <target xml:space="preserve">NON provare ad aggiustare il modello</target>
+      </trans-unit>
+      <trans-unit id="options/notrim-desc:1" approved="yes">
+        <source xml:space="preserve">(only with fdm=jsbsim)</source>
+        <target xml:space="preserve">(solo con fdm=jsbsim)</target>
+      </trans-unit>
+      <trans-unit id="options/offset-azimuth-desc:0" approved="yes">
+        <source xml:space="preserve">Specify heading to reference point</source>
+        <target xml:space="preserve">Specifica la prua al punto di riferimento</target>
+      </trans-unit>
+      <trans-unit id="options/offset-distance-desc:0" approved="yes">
+        <source xml:space="preserve">Specify distance to reference point (statute miles)</source>
+        <target xml:space="preserve">Specifica la distanza dal punto di riferimento (in miglia terrestri)</target>
+      </trans-unit>
+      <trans-unit id="options/on-ground-desc:0" approved="yes">
+        <source xml:space="preserve">Start at ground level (default)</source>
+        <target xml:space="preserve">Inizia a livello del suolo (impostazione predefinita)</target>
+      </trans-unit>
+      <trans-unit id="options/opengc-desc:0" approved="yes">
+        <source xml:space="preserve">Open connection using the OpenGC protocol</source>
+        <target xml:space="preserve">Apri una connessione utilizzando il protocollo OpenGC</target>
+      </trans-unit>
+      <trans-unit id="options/parking-id-desc:0" approved="yes">
+        <source xml:space="preserve">Specify parking position at an airport (must also specify an airport)</source>
+        <target xml:space="preserve">Specifica una posizione di parcheggio in un aeroporto (deve essere anche specificato un aeroporto)</target>
+      </trans-unit>
+      <trans-unit id="options/parkpos-desc:0" approved="yes">
+        <source xml:space="preserve">Specify which starting position on an AI carrier (must also specify a carrier)</source>
+        <target xml:space="preserve">Specifica quale posizione iniziale debba essere utilizzata su una portaerei IA (deve essere anche specificata una portaerei)</target>
+      </trans-unit>
+      <trans-unit id="options/pitch-desc:0" approved="yes">
+        <source xml:space="preserve">Specify pitch angle (Theta)</source>
+        <target xml:space="preserve">Specifica l&apos;angolo di beccheggio (Theta)</target>
+      </trans-unit>
+      <trans-unit id="options/position-options:0" approved="yes">
+        <source xml:space="preserve">Initial Position and Orientation</source>
+        <target xml:space="preserve">Posizione e orientamento iniziali</target>
+      </trans-unit>
+      <trans-unit id="options/prop-desc:0" approved="yes">
+        <source xml:space="preserve">Set property &lt;name&gt; to &lt;value&gt;. &lt;type&gt; can be one of string, double, float, long, int, or bool.</source>
+        <target xml:space="preserve">Imposta la proprietà &lt;name&gt; a &lt;value&gt;. &lt;type&gt; può essere string, double, float, long, int o bool.</target>
+      </trans-unit>
+      <trans-unit id="options/props-desc:0" approved="yes">
+        <source xml:space="preserve">Open connection using the interactive property manager</source>
+        <target xml:space="preserve">Apri una connessione utilizzando il gestore proprietà interattivo</target>
+      </trans-unit>
+      <trans-unit id="options/proxy-desc:0" approved="yes">
+        <source xml:space="preserve">Specify which proxy server (and port) to use. The username and password are optional and should be MD5 encoded already. This option is only useful when used in conjunction with the real-weather-fetch option.</source>
+        <target xml:space="preserve">Specifica il server proxy (e porta) da utilizzare. Il nome utente e la password sono facoltativi e dovrebbero essere già codificati con MD5. Quest&apos;opzione è utile solo se usata assieme all&apos;opzione real-weather-fetch.</target>
+      </trans-unit>
+      <trans-unit id="options/pve-desc:0" approved="yes">
+        <source xml:space="preserve">Open connection using the PVE protocol</source>
+        <target xml:space="preserve">Apri una connessione utilizzando il protocollo PVE</target>
+      </trans-unit>
+      <trans-unit id="options/random-objects-desc:0" approved="yes">
+        <source xml:space="preserve">(buildings, etc.)</source>
+        <target xml:space="preserve">(edifici, ecc.)</target>
+      </trans-unit>
+      <trans-unit id="options/random-wind-desc:0" approved="yes">
+        <source xml:space="preserve">Set up random wind direction and speed</source>
+        <target xml:space="preserve">Imposta una direzione e una velocità del vento casuali</target>
+      </trans-unit>
+      <trans-unit id="options/ray-desc:0" approved="yes">
+        <source xml:space="preserve">Open connection using the Ray Woodworth motion chair protocol</source>
+        <target xml:space="preserve">Apri una connessione utilizzando il protocollo per sedie mobili Ray Woodworth</target>
+      </trans-unit>
+      <trans-unit id="options/rendering-options:0" approved="yes">
+        <source xml:space="preserve">Rendering Options</source>
+        <target xml:space="preserve">Opzioni rendering</target>
+      </trans-unit>
+      <trans-unit id="options/restore-defaults-desc:0" approved="yes">
+        <source xml:space="preserve">Reset all user settings to their defaults (rendering options etc)</source>
+        <target xml:space="preserve">Reimposta tutte le impostazioni utente ai loro valori predefiniti (opzioni di rendering ecc.)</target>
+      </trans-unit>
+      <trans-unit id="options/roc-desc:0" approved="yes">
+        <source xml:space="preserve">Specify initial climb rate (can be negative)</source>
+        <target xml:space="preserve">Specifica il rateo di salita iniziale (può essere negativo)</target>
+      </trans-unit>
+      <trans-unit id="options/roll-desc:0" approved="yes">
+        <source xml:space="preserve">Specify roll angle (Phi)</source>
+        <target xml:space="preserve">Specifica l&apos;angolo di rollio (Phi)</target>
+      </trans-unit>
+      <trans-unit id="options/route-options:0" approved="yes">
+        <source xml:space="preserve">Route/Way Point Options</source>
+        <target xml:space="preserve">Opzioni rotta/waypoint</target>
+      </trans-unit>
+      <trans-unit id="options/rul-desc:0" approved="yes">
+        <source xml:space="preserve">Open connection using the RUL protocol</source>
+        <target xml:space="preserve">Apri una connessione utilizzando il protocollo RUL</target>
+      </trans-unit>
+      <trans-unit id="options/runway-no-desc:0" approved="yes">
+        <source xml:space="preserve">Specify starting runway (must also specify an airport)</source>
+        <target xml:space="preserve">Specifica la pista iniziale (deve essere anche specificato un aeroporto)</target>
+      </trans-unit>
+      <trans-unit id="options/season-desc:0" approved="yes">
+        <source xml:space="preserve">Specify the startup season</source>
+        <target xml:space="preserve">Specifica la stagione da visualizzare all&apos;avvio</target>
+      </trans-unit>
+      <trans-unit id="options/shading-flat-desc:0" approved="yes">
+        <source xml:space="preserve">Enable flat shading</source>
+        <target xml:space="preserve">Abilita flat shading</target>
+      </trans-unit>
+      <trans-unit id="options/shading-smooth-desc:0" approved="yes">
+        <source xml:space="preserve">Enable smooth shading</source>
+        <target xml:space="preserve">Abilita smooth shading</target>
+      </trans-unit>
+      <trans-unit id="options/show-aircraft-desc:0" approved="yes">
+        <source xml:space="preserve">Print a list of the currently available aircraft types</source>
+        <target xml:space="preserve">Stampa un elenco dei tipi di aereo attualmente disponibili</target>
+      </trans-unit>
+      <trans-unit id="options/show-sound-devices-desc:0" approved="yes">
+        <source xml:space="preserve">Show a list of available audio device</source>
+        <target xml:space="preserve">Visualizza un elenco di dispositivi audio disponibili</target>
+      </trans-unit>
+      <trans-unit id="options/situation-options:0" approved="yes">
+        <source xml:space="preserve">Situation Options</source>
+        <target xml:space="preserve">Opzioni situazione</target>
+      </trans-unit>
+      <trans-unit id="options/sound-device-desc:0" approved="yes">
+        <source xml:space="preserve">Explicitly specify the audio device to use</source>
+        <target xml:space="preserve">Specifica esplicitamente il dispositivo audio da utilizzare</target>
+      </trans-unit>
+      <trans-unit id="options/speed-desc:0" approved="yes">
+        <source xml:space="preserve">Run the FDM &apos;n&apos; times faster than real time</source>
+        <target xml:space="preserve">Esegui l&apos;FDM &apos;n&apos; volte più velocemente del tempo reale</target>
+      </trans-unit>
+      <trans-unit id="options/start-date-desc:0" approved="yes">
+        <source xml:space="preserve">Specify a starting date/time with respect to</source>
+        <target xml:space="preserve">Specifica un&apos;ora/data iniziali rispetto a</target>
+      </trans-unit>
+      <trans-unit id="options/telnet-desc:0" approved="yes">
+        <source xml:space="preserve">Enable telnet server on the specified port</source>
+        <target xml:space="preserve">Abilita server Telnet sulla porta specificata</target>
+      </trans-unit>
+      <trans-unit id="options/terrasync-dir-desc:0" approved="yes">
+        <source xml:space="preserve">Set target directory for scenery downloads</source>
+        <target xml:space="preserve">Imposta directory di destinazione per i download dello scenario</target>
+      </trans-unit>
+      <trans-unit id="options/texture-filtering-desc:0" approved="yes">
+        <source xml:space="preserve">Anisotropic Texture Filtering: values should be 1 (default),2,4,8 or 16</source>
+        <target xml:space="preserve">Filtraggio anisotropico delle texture: i valori devono essere 1 (predefinito), 2, 4, 8 o 16</target>
+      </trans-unit>
+      <trans-unit id="options/time-match-local-desc:0" approved="yes">
+        <source xml:space="preserve">Synchronize time with local real-world time</source>
+        <target xml:space="preserve">Sincronizza l&apos;orario con l&apos;orario reale (fuso orario locale)</target>
+      </trans-unit>
+      <trans-unit id="options/time-match-real-desc:0" approved="yes">
+        <source xml:space="preserve">Synchronize time with real-world time</source>
+        <target xml:space="preserve">Sincronizza l&apos;orario con l&apos;orario reale</target>
+      </trans-unit>
+      <trans-unit id="options/time-offset-desc:0" approved="yes">
+        <source xml:space="preserve">Add this time offset</source>
+        <target xml:space="preserve">Aggiungi questo offset temporale</target>
+      </trans-unit>
+      <trans-unit id="options/time-options:0" approved="yes">
+        <source xml:space="preserve">Time Options</source>
+        <target xml:space="preserve">Opzioni orario</target>
+      </trans-unit>
+      <trans-unit id="options/timeofday-desc:0" approved="yes">
+        <source xml:space="preserve">Specify a time of day</source>
+        <target xml:space="preserve">Specifica un&apos;ora del giorno</target>
+      </trans-unit>
+      <trans-unit id="options/trace-read-desc:0" approved="yes">
+        <source xml:space="preserve">Trace the reads for a property;</source>
+        <target xml:space="preserve">Registra le letture di una proprietà;</target>
+      </trans-unit>
+      <trans-unit id="options/trace-write-desc:0" approved="yes">
+        <source xml:space="preserve">Trace the writes for a property;</source>
+        <target xml:space="preserve">Registra le scritture di una proprietà;</target>
+      </trans-unit>
+      <trans-unit id="options/trim-desc:0" approved="yes">
+        <source xml:space="preserve">Trim the model</source>
+        <target xml:space="preserve">Aggiusta il modello</target>
+      </trans-unit>
+      <trans-unit id="options/trim-desc:1" approved="yes">
+        <source xml:space="preserve">(only with fdm=jsbsim)</source>
+        <target xml:space="preserve">(solo con fdm=jsbsim)</target>
+      </trans-unit>
+      <trans-unit id="options/turbulence-desc:0" approved="yes">
+        <source xml:space="preserve">Specify turbulence from 0.0 (calm) to 1.0 (severe)</source>
+        <target xml:space="preserve">Specifica un&apos;intensità della turbolenza da 0.0 (vento calmo) a 1.0 (inclemente)</target>
+      </trans-unit>
+      <trans-unit id="options/uBody-desc:0" approved="yes">
+        <source xml:space="preserve">Specify velocity along the body X axis</source>
+        <target xml:space="preserve">Specifica la velocità lungo l&apos;asse X del corpo</target>
+      </trans-unit>
+      <trans-unit id="options/units-feet-desc:0" approved="yes">
+        <source xml:space="preserve">Use feet for distances</source>
+        <target xml:space="preserve">Utilizza i piedi per le distanze</target>
+      </trans-unit>
+      <trans-unit id="options/units-meters-desc:0" approved="yes">
+        <source xml:space="preserve">Use meters for distances</source>
+        <target xml:space="preserve">Utilizza i metri per le distanze</target>
+      </trans-unit>
+      <trans-unit id="options/usage:0" approved="yes">
+        <source xml:space="preserve">Usage: fgfs [ option ... ]</source>
+        <target xml:space="preserve">Utilizzo: fgfs [ opzioni ... ]</target>
+      </trans-unit>
+      <trans-unit id="options/vBody-desc:0" approved="yes">
+        <source xml:space="preserve">Specify velocity along the body Y axis</source>
+        <target xml:space="preserve">Specifica la velocità lungo l&apos;asse Y del corpo</target>
+      </trans-unit>
+      <trans-unit id="options/vDown-desc:0" approved="yes">
+        <source xml:space="preserve">Specify velocity along a vertical axis</source>
+        <target xml:space="preserve">Specifica la velocità lungo un asse verticale</target>
+      </trans-unit>
+      <trans-unit id="options/vEast-desc:0" approved="yes">
+        <source xml:space="preserve">Specify velocity along a West-East axis</source>
+        <target xml:space="preserve">Specifica la velocità lungo un asse Ovest-Est</target>
+      </trans-unit>
+      <trans-unit id="options/vNorth-desc:0" approved="yes">
+        <source xml:space="preserve">Specify velocity along a South-North axis</source>
+        <target xml:space="preserve">Specifica la velocità lungo un asse Sud-Nord</target>
+      </trans-unit>
+      <trans-unit id="options/vc-desc:0" approved="yes">
+        <source xml:space="preserve">Specify initial airspeed</source>
+        <target xml:space="preserve">Specifica la velocità all&apos;aria iniziale</target>
+      </trans-unit>
+      <trans-unit id="options/vehicle-desc:0" approved="yes">
+        <source xml:space="preserve">Select an vehicle profile as defined by a top level &lt;name&gt;-set.xml</source>
+        <target xml:space="preserve">Seleziona un profilo di un veicolo così come definito da un file &lt;name&gt;-set.xml situato nella directory principale</target>
+      </trans-unit>
+      <trans-unit id="options/verbose-desc:0" approved="yes">
+        <source xml:space="preserve">Show all command line options when combined with --help or -h</source>
+        <target xml:space="preserve">Visualizza tutte le opzioni della riga di comando se combinato con --help o -h</target>
+      </trans-unit>
+      <trans-unit id="options/verbose-help:0" approved="yes">
+        <source xml:space="preserve">For a complete list of options use --help --verbose</source>
+        <target xml:space="preserve">Per un elenco completo delle opzioni utilizza --help --verbose</target>
+      </trans-unit>
+      <trans-unit id="options/version-desc:0" approved="yes">
+        <source xml:space="preserve">Display the current FlightGear version</source>
+        <target xml:space="preserve">Visualizza la versione corrente di FlightGear</target>
+      </trans-unit>
+      <trans-unit id="options/view-offset-desc:0" approved="yes">
+        <source xml:space="preserve">Specify the default forward view direction as an offset from straight ahead. Allowable values are LEFT, RIGHT, CENTER, or a specific number in degrees</source>
+        <target xml:space="preserve">Specifica la direzione predefinita di visualizzazione in avanti come offset dalla direzione frontale. I valori ammessi sono LEFT, RIGHT, CENTER o un numero specifico in gradi</target>
+      </trans-unit>
+      <trans-unit id="options/visibility-desc:0" approved="yes">
+        <source xml:space="preserve">Specify initial visibility</source>
+        <target xml:space="preserve">Specifica la visibilità iniziale</target>
+      </trans-unit>
+      <trans-unit id="options/visibility-miles-desc:0" approved="yes">
+        <source xml:space="preserve">Specify initial visibility in miles</source>
+        <target xml:space="preserve">Specifica la visibilità iniziale in miglia</target>
+      </trans-unit>
+      <trans-unit id="options/vor-desc:0" approved="yes">
+        <source xml:space="preserve">Specify starting position relative to a VOR</source>
+        <target xml:space="preserve">Specifica la posizione iniziale relativa a un VOR</target>
+      </trans-unit>
+      <trans-unit id="options/vor-freq-desc:0" approved="yes">
+        <source xml:space="preserve">Specify the frequency of the VOR. Use with --vor=ID</source>
+        <target xml:space="preserve">Specifica la frequenza del VOR. Utilizza l&apos;opzione insieme a --vor=ID</target>
+      </trans-unit>
+      <trans-unit id="options/wBody-desc:0" approved="yes">
+        <source xml:space="preserve">Specify velocity along the body Z axis</source>
+        <target xml:space="preserve">Specifica la velocità lungo l&apos;asse Z del corpo</target>
+      </trans-unit>
+      <trans-unit id="options/wind-desc:0" approved="yes">
+        <source xml:space="preserve">Specify wind coming from DIR (degrees) at SPEED (knots)</source>
+        <target xml:space="preserve">Specifica che il vento soffia dalla direzione DIR (in gradi) alla velocità SPEED (in nodi)</target>
+      </trans-unit>
+      <trans-unit id="options/wp-desc:0" approved="yes">
+        <source xml:space="preserve">Specify a waypoint for the GC autopilot;</source>
+        <target xml:space="preserve">Specifica un waypoint per il pilota automatico GC;</target>
+      </trans-unit>
+    </group>
+    <group restype="x-trolltech-linguist-context" resname="sys">
+      <trans-unit id="sys/binding-subsystems:0" approved="yes">
+        <source xml:space="preserve">binding subsystems</source>
+        <target xml:space="preserve">binding sottosistemi in corso</target>
+      </trans-unit>
+      <trans-unit id="sys/creating-subsystems:0" approved="yes">
+        <source xml:space="preserve">creating subsystems</source>
+        <target xml:space="preserve">creazione sottosistemi in corso</target>
+      </trans-unit>
+      <trans-unit id="sys/downloading-scenery:0" approved="yes">
+        <source xml:space="preserve">downloading scenery</source>
+        <target xml:space="preserve">download scenario in corso</target>
+      </trans-unit>
+      <trans-unit id="sys/finalize-position:0" approved="yes">
+        <source xml:space="preserve">finalizing position</source>
+        <target xml:space="preserve">finalizzazione posizione in corso</target>
+      </trans-unit>
+      <trans-unit id="sys/finishing-subsystems:0" approved="yes">
+        <source xml:space="preserve">finalizing subsystems</source>
+        <target xml:space="preserve">finalizzazione sottosistemi in corso</target>
+      </trans-unit>
+      <trans-unit id="sys/init:0" approved="yes">
+        <source xml:space="preserve">initializing</source>
+        <target xml:space="preserve">inizializzazione in corso</target>
+      </trans-unit>
+      <trans-unit id="sys/init-graphics:0" approved="yes">
+        <source xml:space="preserve">initializing graphics engine</source>
+        <target xml:space="preserve">inizializzazione motore grafico in corso</target>
+      </trans-unit>
+      <trans-unit id="sys/init-scenery:0" approved="yes">
+        <source xml:space="preserve">initializing scenery</source>
+        <target xml:space="preserve">inizializzazione scenario in corso</target>
+      </trans-unit>
+      <trans-unit id="sys/init-subsystems:0" approved="yes">
+        <source xml:space="preserve">initializing subsystems</source>
+        <target xml:space="preserve">inizializzazione sottosistemi in corso</target>
+      </trans-unit>
+      <trans-unit id="sys/loading-aircraft:0" approved="yes">
+        <source xml:space="preserve">loading aircraft</source>
+        <target xml:space="preserve">caricamento aereo in corso</target>
+      </trans-unit>
+      <trans-unit id="sys/loading-aircraft-list:0" approved="yes">
+        <source xml:space="preserve">loading aircraft list</source>
+        <target xml:space="preserve">caricamento elenco aerei in corso</target>
+      </trans-unit>
+      <trans-unit id="sys/loading-nav-dat:0" approved="yes">
+        <source xml:space="preserve">loading navigation data</source>
+        <target xml:space="preserve">caricamento dati di navigazione in corso</target>
+      </trans-unit>
+      <trans-unit id="sys/loading-scenery:0" approved="yes">
+        <source xml:space="preserve">loading scenery</source>
+        <target xml:space="preserve">caricamento scenario in corso</target>
+      </trans-unit>
+      <trans-unit id="sys/navdata-fixes:0" approved="yes">
+        <source xml:space="preserve">loading fixes</source>
+        <target xml:space="preserve">caricamento fix in corso</target>
+      </trans-unit>
+      <trans-unit id="sys/navdata-load-percent:0" approved="yes">
+        <source xml:space="preserve">[VALUE]% complete</source>
+        <target xml:space="preserve">[VALUE]% completato</target>
+      </trans-unit>
+      <trans-unit id="sys/navdata-loading-airports:0" approved="yes">
+        <source xml:space="preserve">loading airport data</source>
+        <target xml:space="preserve">caricamento dati aeroporto in corso</target>
+      </trans-unit>
+      <trans-unit id="sys/navdata-navaids:0" approved="yes">
+        <source xml:space="preserve">loading navigation aid data</source>
+        <target xml:space="preserve">caricamento radioassistenze in corso</target>
+      </trans-unit>
+      <trans-unit id="sys/navdata-pois:0" approved="yes">
+        <source xml:space="preserve">loading points of interest</source>
+        <target xml:space="preserve">caricamento punti di interesse in corso</target>
+      </trans-unit>
+      <trans-unit id="sys/navdata-reading-apt-dat-files:0" approved="yes">
+        <source xml:space="preserve">reading airport data</source>
+        <target xml:space="preserve">lettura dati aeroporto in corso</target>
+      </trans-unit>
+      <trans-unit id="sys/settings-migration-text:0" approved="yes">
+        <source xml:space="preserve">Saved settings were migrated from a previous version of FlightGear. If you encounter any problems when using the system, try restoring the default settings, before reporting a problem. Saved settings can affect the appearance, performance and features of the simulator.</source>
+        <target xml:space="preserve">Le impostazioni salvate sono state migrate da una versione precedente di FlightGear. Se riscontri dei problemi durante l&apos;utilizzo del sistema, prova a ripristinare le impostazioni predefinite prima di segnalare un problema. Le impostazioni salvate possono avere influenza sull&apos;aspetto, sulle performance e sulle funzionalità del simulatore.</target>
+      </trans-unit>
+      <trans-unit id="sys/settings-migration-title:0" approved="yes">
+        <source xml:space="preserve">Settings migrated</source>
+        <target xml:space="preserve">Impostazioni migrate</target>
+      </trans-unit>
+      <trans-unit id="sys/unstable-warning:0" approved="yes">
+        <source xml:space="preserve">Unstable nightly build - some features may be under active development</source>
+        <target xml:space="preserve">Build nightly non stabile - alcune funzionalità potrebbero essere in fase di sviluppo attivo</target>
+      </trans-unit>
+    </group>
+    <group restype="x-trolltech-linguist-context" resname="tips">
+      <trans-unit id="tips/tip:0" approved="yes">
+        <source xml:space="preserve">Drag while holding the right mouse button to look around</source>
+        <target xml:space="preserve">Trascina il puntatore mentre tieni premuto il tasto destro del mouse per guardarti attorno</target>
+      </trans-unit>
+      <trans-unit id="tips/tip:1" approved="yes">
+        <source xml:space="preserve">Hold [Shift] while looking around to move the view up, down, left or right</source>
+        <target xml:space="preserve">Tieni premuto [MAIUSC] mentre ti guardi attorno per spostare la vista in alto, in basso, a sinistra o a destra</target>
+      </trans-unit>
+      <trans-unit id="tips/tip:2" approved="yes">
+        <source xml:space="preserve">Press a/A to adjust the simulation speed</source>
+        <target xml:space="preserve">Premi a/A per regolare la velocità della simulazione</target>
+      </trans-unit>
+      <trans-unit id="tips/tip:3" approved="yes">
+        <source xml:space="preserve">Press x/X to zoom in and out</source>
+        <target xml:space="preserve">Premi x/X per aumentare/diminuire lo zoom</target>
+      </trans-unit>
+      <trans-unit id="tips/tip:4" approved="yes">
+        <source xml:space="preserve">Find frequencies of nearby ATC services from the Radios dialog</source>
+        <target xml:space="preserve">Trova le frequenze dei servizi ATC nelle vicinanze nella finestra Radio</target>
+      </trans-unit>
+      <trans-unit id="tips/tip:5" approved="yes">
+        <source xml:space="preserve">Press v to change your viewpoint, Ctrl-V to return to the cockpit</source>
+        <target xml:space="preserve">Premi v per modificare il tuo punto di vista, Ctrl+V per tornare alla cabina di pilotaggio</target>
+      </trans-unit>
+      <trans-unit id="tips/tip:6" approved="yes">
+        <source xml:space="preserve">Press F3 to take a screenshot</source>
+        <target xml:space="preserve">Premi F3 per catturare una schermata</target>
+      </trans-unit>
+      <trans-unit id="tips/tip:7" approved="yes">
+        <source xml:space="preserve">Join the FlightGear community at http://forum.flightgear.org</source>
+        <target xml:space="preserve">Unisciti alla comunità di FlightGear sul sito http://forum.flightgear.org</target>
+      </trans-unit>
+      <trans-unit id="tips/tip:8" approved="yes">
+        <source xml:space="preserve">Press h to bring up a Heads Up Display</source>
+        <target xml:space="preserve">Premi h per attivare l&apos;head up display</target>
+      </trans-unit>
+      <trans-unit id="tips/tip:9" approved="yes">
+        <source xml:space="preserve">Show or hide the menu bar by pressing F10</source>
+        <target xml:space="preserve">Nascondi la barra dei menù premendo F10</target>
+      </trans-unit>
+      <trans-unit id="tips/tip:10" approved="yes">
+        <source xml:space="preserve">Frame-rate too low? - try disabling AI traffic</source>
+        <target xml:space="preserve">Framerate troppo basso? Prova a disabilitare il traffico IA</target>
+      </trans-unit>
+      <trans-unit id="tips/tip:11" approved="yes">
+        <source xml:space="preserve">Select Environment → Weather to fly in different weather</source>
+        <target xml:space="preserve">Seleziona Ambiente → Meteo per volare in differenti condizioni metereologiche</target>
+      </trans-unit>
+      <trans-unit id="tips/tip:12" approved="yes">
+        <source xml:space="preserve">Press F12 to change the radio frequencies easily</source>
+        <target xml:space="preserve">Premi F12 per modificare facilmente le frequenze radio</target>
+      </trans-unit>
+      <trans-unit id="tips/tip:13" approved="yes">
+        <source xml:space="preserve">Look around by holding down the right mouse button and moving the mouse</source>
+        <target xml:space="preserve">Guardati attorno tenendo premuto il tasto destro del mouse e spostando il puntatore</target>
+      </trans-unit>
+      <trans-unit id="tips/tip:14" approved="yes">
+        <source xml:space="preserve">Select Multiplayer → Multiplayer Settings to join the shared flight environment</source>
+        <target xml:space="preserve">Seleziona Multigiocatore → Impostazioni multigiocatore per unirti all&apos;ambiente di volo condiviso</target>
+      </trans-unit>
+      <trans-unit id="tips/tip:15" approved="yes">
+        <source xml:space="preserve">Can&apos;t get the engine started? - see Help → Aircraft Checklists</source>
+        <target xml:space="preserve">Non riesci ad avviare il motore? Vedi Aiuto → Checklist aereo</target>
+      </trans-unit>
+      <trans-unit id="tips/tip:16" approved="yes">
+        <source xml:space="preserve">Drag while holding the middle and right mouse buttons to move the viewpoint</source>
+        <target xml:space="preserve">Trascina il puntatore mentre tieni premuti i tasti centrale e destro del mouse per muovere il punto di vista</target>
+      </trans-unit>
+      <trans-unit id="tips/tip:17" approved="yes">
+        <source xml:space="preserve">Press / to explore the internals of the simulator</source>
+        <target xml:space="preserve">Premi / per esplorare le proprietà interne del simulatore</target>
+      </trans-unit>
+      <trans-unit id="tips/tip:18" approved="yes">
+        <source xml:space="preserve">Press Tab to move the viewpoint with your mouse and use the scroll wheel to zoom</source>
+        <target xml:space="preserve">Premi TAB per muovere il punto di vista con il mouse e utilizza la rotella per modificare lo zoom</target>
+      </trans-unit>
+    </group>
+    <group restype="x-trolltech-linguist-context" resname="weather-scenarios">
+      <trans-unit id="weather-scenarios/border-high-pressure-region-desc:0" approved="yes">
+        <source xml:space="preserve">The border of a high pressure region, in which the airmass becomes unstable and various convective and stratiform clouds may appear.</source>
+        <target xml:space="preserve">Il confine di una regione di alta pressione in cui le masse d&apos;aria diventano instabili e possono comparire varie nuvole convettive e stratiformi.</target>
+      </trans-unit>
+      <trans-unit id="weather-scenarios/border-high-pressure-region-name:0" approved="yes">
+        <source xml:space="preserve">Border of a high pressure region</source>
+        <target xml:space="preserve">Confine di una regione di alta pressione</target>
+      </trans-unit>
+      <trans-unit id="weather-scenarios/border-low-pressure-region-desc:0" approved="yes">
+        <source xml:space="preserve">The border of a low pressure region, in which the airmass is unstable and convective clouds start to form layers and merge into stratiform clouds.</source>
+        <target xml:space="preserve">Il confine di una regione di bassa pressione in cui le masse d&apos;aria sono instabili e le nuvole convettive iniziano a formare livelli e ad unirsi in strati.</target>
+      </trans-unit>
+      <trans-unit id="weather-scenarios/border-low-pressure-region-name:0" approved="yes">
+        <source xml:space="preserve">Border of a low pressure region</source>
+        <target xml:space="preserve">Confine di una regione di bassa pressione</target>
+      </trans-unit>
+      <trans-unit id="weather-scenarios/cat-one-minimum-desc:0" approved="yes">
+        <source xml:space="preserve">If you just got your IFR rating, this is what you are allowed to do. But can you?</source>
+        <target xml:space="preserve">Se hai appena conseguito l&apos;abilitazione IFR, questo è ciò che ti è consentito di fare. Ma ne sei in grado?</target>
+      </trans-unit>
+      <trans-unit id="weather-scenarios/cat-one-minimum-name:0" approved="yes">
+        <source xml:space="preserve">CAT I minimum</source>
+        <target xml:space="preserve">Minime CAT I</target>
+      </trans-unit>
+      <trans-unit id="weather-scenarios/cat-three-b-minimum-desc:0" approved="yes">
+        <source xml:space="preserve">This is expert level. You will barely see the taxiway from the cockpit, even if you are on ground. Fog and light drizzle, freezing level at 1000ft.</source>
+        <target xml:space="preserve">Questo è per esperti. Vedrai a malapena la via di rullaggio dal cockpit, anche se sei a terra. Ci sono nebbia e pioggia fine, e lo zero termico è a 1000 piedi.</target>
+      </trans-unit>
+      <trans-unit id="weather-scenarios/cat-three-b-minimum-name:0" approved="yes">
+        <source xml:space="preserve">CAT IIIb minimum</source>
+        <target xml:space="preserve">Minime CAT IIIb</target>
+      </trans-unit>
+      <trans-unit id="weather-scenarios/cat-two-minimum-desc:0" approved="yes">
+        <source xml:space="preserve">With just a 1/4 mile visibility and clouds at 100ft, you don&apos;t see much of the runway until seconds before touchdown. Trust your instruments to stay alive.</source>
+        <target xml:space="preserve">Con una visibilità di appena 1/4 di miglio e nuvole a 100 piedi non vedrai un granché la pista fino a pochi secondi prima della toccata. Fidati dei tuoi strumenti per rimanere vivo.</target>
+      </trans-unit>
+      <trans-unit id="weather-scenarios/cat-two-minimum-name:0" approved="yes">
+        <source xml:space="preserve">CAT II minimum</source>
+        <target xml:space="preserve">Minime CAT II</target>
+      </trans-unit>
+      <trans-unit id="weather-scenarios/core-high-pressure-region-desc:0" approved="yes">
+        <source xml:space="preserve">The center of a high pressure region, characterized by descending air and hence only weak cloud development with high visibility.</source>
+        <target xml:space="preserve">Il centro di una regione di alta pressione, caratterizzato da venti discendenti e pertanto solo da uno sviluppo limitato di nuvole, con elevata visibilità.</target>
+      </trans-unit>
+      <trans-unit id="weather-scenarios/core-high-pressure-region-name:0" approved="yes">
+        <source xml:space="preserve">Core high pressure region</source>
+        <target xml:space="preserve">Centro di una regione di alta pressione</target>
+      </trans-unit>
+      <trans-unit id="weather-scenarios/core-low-pressure-region-desc:0" approved="yes">
+        <source xml:space="preserve">The core of a low pressure region, characterized by overcast clouds, bad visibility on the ground and significant rainfall.</source>
+        <target xml:space="preserve">Il centro di una regione di bassa pressione, caratterizzato da cielo coperto, visibilità ridotta a terra e precipitazioni intense.</target>
+      </trans-unit>
+      <trans-unit id="weather-scenarios/core-low-pressure-region-name:0" approved="yes">
+        <source xml:space="preserve">Core low pressure region</source>
+        <target xml:space="preserve">Centro di una regione di bassa pressione</target>
+      </trans-unit>
+      <trans-unit id="weather-scenarios/early-morning-fog-desc:0" approved="yes">
+        <source xml:space="preserve">Fog developed this autumn&apos;s morning. Expect good visibility above the layer. However - getting through it can be a challenge. Stay alive for a 500&apos; climb and you&apos;ll see the sun!</source>
+        <target xml:space="preserve">Durante questa mattinata autunnale si è sviluppata della nebbia. Attenditi una visibilità buona al di sopra di essa. Attraversarla, però, può essere una sfida. Rimani vivo per un&apos;ascesa di 500 piedi e vedrai il sole!</target>
+      </trans-unit>
+      <trans-unit id="weather-scenarios/early-morning-fog-name:0" approved="yes">
+        <source xml:space="preserve">Early morning fog</source>
+        <target xml:space="preserve">Nebbia di prima mattina</target>
+      </trans-unit>
+      <trans-unit id="weather-scenarios/fair-weather-desc:0" approved="yes">
+        <source xml:space="preserve">A lovely day for trip to your favorite 100$ hamburger airfield</source>
+        <target xml:space="preserve">Una giornata magnifica per un volo al tuo aeroporto preferito dove offrono hamburger da 100 dollari</target>
+      </trans-unit>
+      <trans-unit id="weather-scenarios/fair-weather-name:0" approved="yes">
+        <source xml:space="preserve">Fair weather</source>
+        <target xml:space="preserve">Bel tempo</target>
+      </trans-unit>
+      <trans-unit id="weather-scenarios/high-pressure-region-desc:0" approved="yes">
+        <source xml:space="preserve">A high pressure region, characterized by moderate to strong Cumulus development in the afternoon and fairly good visibility conditions.</source>
+        <target xml:space="preserve">Una regione di alta pressione caratterizzata da uno sviluppo di cumuli da medio a elevato nel pomeriggio e da condizioni di visibilità abbastanza buone.</target>
+      </trans-unit>
+      <trans-unit id="weather-scenarios/high-pressure-region-name:0" approved="yes">
+        <source xml:space="preserve">High pressure region</source>
+        <target xml:space="preserve">Regione di alta pressione</target>
+      </trans-unit>
+      <trans-unit id="weather-scenarios/live-data-desc:0" approved="yes">
+        <source xml:space="preserve">Fetch live weather data for your nearest airport from noaa.gov. You need a working internet connection. Weather is generated automatically, once a valid METAR is received.</source>
+        <target xml:space="preserve">Recupera i dati metereologici per l&apos;aeroporto più vicino in tempo reale da noaa.gov. È necessaria una connessione ad Internet funzionante. Le condizioni meteorologiche sono generate automaticamente una volta ricevuto un METAR valido.</target>
+      </trans-unit>
+      <trans-unit id="weather-scenarios/live-data-name:0" approved="yes">
+        <source xml:space="preserve">Live data</source>
+        <target xml:space="preserve">Dati in tempo reale</target>
+      </trans-unit>
+      <trans-unit id="weather-scenarios/low-pressure-region-desc:0" approved="yes">
+        <source xml:space="preserve">A low pressure region, characterized by rising air, widespread formation of stratiform clouds and beginning rain.</source>
+        <target xml:space="preserve">Una regione di bassa pressione caratterizzata da venti ascendenti, formazioni diffuse di nuvole stratiformi e precipitazioni nello stadio iniziale.</target>
+      </trans-unit>
+      <trans-unit id="weather-scenarios/low-pressure-region-name:0" approved="yes">
+        <source xml:space="preserve">Low pressure region</source>
+        <target xml:space="preserve">Regione di bassa pressione</target>
+      </trans-unit>
+      <trans-unit id="weather-scenarios/manual-input-desc:0" approved="yes">
+        <source xml:space="preserve">Enter your favorite METAR weather. A valid METAR syntax is required.</source>
+        <target xml:space="preserve">Immetti le condizioni METAR preferite. È necessario che la sintassi METAR sia valida.</target>
+      </trans-unit>
+      <trans-unit id="weather-scenarios/manual-input-name:0" approved="yes">
+        <source xml:space="preserve">Manual input</source>
+        <target xml:space="preserve">Immissione manuale</target>
+      </trans-unit>
+      <trans-unit id="weather-scenarios/marginal-vfr-desc:0" approved="yes">
+        <source xml:space="preserve">After the storm - limited visibility and some showers. Go or No-Go?</source>
+        <target xml:space="preserve">Dopo la tempesta - visibilità limitata e alcuni rovesci. Si vola o no?</target>
+      </trans-unit>
+      <trans-unit id="weather-scenarios/marginal-vfr-name:0" approved="yes">
+        <source xml:space="preserve">Marginal VFR</source>
+        <target xml:space="preserve">Condizioni limite VFR</target>
+      </trans-unit>
+      <trans-unit id="weather-scenarios/stormy-monday-desc:0" approved="yes">
+        <source xml:space="preserve">You&apos;re out for an adventure? Gusty winds blowing from the west and isolated thunderstorms should be avoided. Fasten your seatbelt!</source>
+        <target xml:space="preserve">Sei in cerca di un&apos;avventura? Dovresti evitare venti con raffiche che soffiano da ovest e temporali isolati. Allaccia le cinture!</target>
+      </trans-unit>
+      <trans-unit id="weather-scenarios/stormy-monday-name:0" approved="yes">
+        <source xml:space="preserve">Stormy Monday</source>
+        <target xml:space="preserve">Lunedì burrascoso</target>
+      </trans-unit>
+      <trans-unit id="weather-scenarios/thunderstorm-desc:0" approved="yes">
+        <source xml:space="preserve">A hot and damp summer day with thunderstorms developing in the afternoon. Be prepared for reduction of visibility in showers and strong gusts near thunderstorms</source>
+        <target xml:space="preserve">Una giornata estiva calda e umida con temporali che si sviluppano nel pomeriggio. Sii preparato per una riduzione della visibilità entro i rovesci e per raffiche forti in vicinanza dei temporali</target>
+      </trans-unit>
+      <trans-unit id="weather-scenarios/thunderstorm-name:0" approved="yes">
+        <source xml:space="preserve">Thunderstorm</source>
+        <target xml:space="preserve">Temporale</target>
+      </trans-unit>
+      <trans-unit id="weather-scenarios/warm-sector-desc:0" approved="yes">
+        <source xml:space="preserve">A warm sector, characterized by high moisture in the air and haze extending up to high altitudes, but otherwise largely convective cloud development.</source>
+        <target xml:space="preserve">Un settore caldo caratterizzato da un&apos;elevata umidità dell&apos;aria e da foschia che si estende fino ad altitudini elevate, ma per il resto da sviluppi di nuvole perlopiù convettive.</target>
+      </trans-unit>
+      <trans-unit id="weather-scenarios/warm-sector-name:0" approved="yes">
+        <source xml:space="preserve">Warm sector</source>
+        <target xml:space="preserve">Settore caldo</target>
+      </trans-unit>
+    </group>
+  </body></file>
+</xliff>

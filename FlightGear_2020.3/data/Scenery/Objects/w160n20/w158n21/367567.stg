@@ -1,0 +1,4 @@
+OBJECT_SHARED Models/Communications/radio-medium.xml -157.035833 21.154167 78.44 180
+OBJECT_SHARED Models/Airport/tower.xml -157.095767 21.1548823 136.44 28
+OBJECT_SHARED Models/Airport/Hangar_planeurs.ac -157.0932464 21.1553012 275.15 120
+OBJECT_SHARED Models/Airport/Hangar_planeurs.ac -157.0932463 21.1553012 137.52 28

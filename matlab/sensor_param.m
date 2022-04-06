@@ -1,0 +1,40 @@
+%%gyroscope
+gyro = [];
+gyro.maxRead = 8.726;
+gyro.reso = 1/40/57.3;
+gyro.conOffBias = [0.7/57.3, 0.7/57.3, 0.7/57.3];
+gyro.axesSkew = [0.2,0.2,0.2];
+gyro.biasAccel = [0.01/57.3*9.8, 0.01/57.3*9.8, 0.01/57.3*9.8];
+gyro.noise = [];
+gyro.noise.angleRanWalk = [0.15/60/57.3, 0.15/60/57.3, 0.15/60/57.3];
+gyro.noise.biasInstab = [2.5/3600/57.3, 2.5/3600/57.3, 2.5/3600/57.3];
+gyro.noise.rateRanWalk = [0.003/57.3, 0.003/57.3, 0.003/57.3];
+gyro.temEff = [];
+gyro.temEff.biasTem = [0,0,0];
+gyro.temEff.SF = [0,0,0];
+%%accelerometer
+accel = [];
+accel.maxRead = 40*9.8;
+accel.reso = 1.95*10^(-9);
+accel.conOffBias = [6/1000/9.8, 6/1000/9.8, 6/1000/9.8];
+accel.axesSkew = [1.5, 1.5, 1.5];
+accel.noise = [];
+accel.noise.velRanWalk = [0.037/60, 0.037/60, 0.037/60];
+accel.noise.biasInstab = [13/10^6/0.9, 13/10^6/0.9, 13/10^6/0.9];
+accel.noise.accelRanWalk = [0,0,0];
+accel.temEff = [];
+accel.temEff.biasTem = [0,0,0];
+accel.temEff.SF = [0,0,0];
+%%magnetometer
+mag = [];
+mag.maxRead = 0.0002;
+mag.reso = 67/10000;
+mag.conOffBias = [0,0,0];
+mag.axesSkew = [0,0,0];
+mag.noise = [];
+mag.noise.whiteNoisePSD = [0,0,0];
+mag.noise.biasInstab = [0,0,0];
+mag.noise.ranWalk = [0,0,0];
+mag.temEff = [];
+mag.temEff.biasTem = [0,0,0];
+mag.temEff.SF = [0,0,0];

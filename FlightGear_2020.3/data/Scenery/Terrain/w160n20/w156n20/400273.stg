@@ -1,0 +1,4 @@
+OBJECT_BASE 400273.btg
+OBJECT PHUP.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -155.860094 20.264520 27.3 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -155.861007 20.264225 27.8 0.00

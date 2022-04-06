@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!-- FlightGear Materials File. See Docs/README.materials for details. -->
+
+<PropertyList>
+
+<!-- Base materials -->
+<region include="Materials/default/global.xml"/>
+<region include="Materials/default/global-summer.xml"/>
+<region include="Materials/default/global-winter.xml"/>
+
+</PropertyList>

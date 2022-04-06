@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+ <description>A330-300</description>
+ <author>3D Model Innis Cunningham, UV map liveries Brett Harrison</author> 
+ <path>Models/A333.ac</path>
+<!-- Show Gear only when speed under 200 knots for parking and taxi and take off phases -->  
+     <animation>
+		<type>select</type>
+		<object-name>gear</object-name>
+		<condition>
+			<less-than>
+				<property>velocities/true-airspeed-kt</property>
+				<value>170</value>
+			</less-than>
+		</condition>
+	</animation>
+<!-- Tail and Windows Lightmap Effect -->
+  <effect>
+    <inherits-from>AI/Aircraft/A333/Effects/333-LightMap</inherits-from>
+    <object-name>fuselage</object-name>
+	<object-name>gear</object-name>
+  </effect>
+  <!-- Add Navigation Lights Objects -->
+  <model>
+    <path>Lights/333-NavLights.xml</path>
+  </model>
+</PropertyList>

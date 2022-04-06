@@ -1,0 +1,957 @@
+<?xml version="1.0"?>
+<!-- Regional definitions for Australia
+Default Australia is modelled as dry.
+Sand and soil is a reddish colour. Regional areas override
+these definitions.
+ -->
+
+<PropertyList>
+  <name>Australia</name>
+  <area>
+    <lon1>112.0</lon1>
+    <lon2>155.0</lon2>
+    <lat1>-45.0</lat1>
+    <lat2>-14.0</lat2>
+  </area>
+
+  <area>
+    <lon1>128.0</lon1>
+    <lon2>146.0</lon2>
+    <lat1>-14.0</lat1>
+    <lat2>-10.0</lat2>
+  </area>
+
+  <area>
+    <lon1>112.0</lon1>
+    <lon2>128.0</lon2>
+    <lat1>-14.0</lat1>
+    <lat2>-13.0</lat2>
+  </area>
+
+ <material>
+    <name>Grass</name>
+    <name>Airport</name>
+    <name>AirportKeep</name>
+    <name>Greenspace</name>
+    <effect>Effects/grass</effect>
+    <texture-set>   <!-- copied from california.xml -->
+      <texture>Terrain/california-airport.png</texture>
+      <texture n="13">Terrain/grass_dry2.png</texture>
+      <texture n="14">Terrain/airport_grass_structure_overlay2.png</texture>
+      <texture n="20">Terrain/grass_dry2.png</texture>
+    </texture-set>
+    <parameters>
+      <grit_alpha>0.2</grit_alpha>
+      <base_layer_magnification>1.0</base_layer_magnification>
+      <use_overlay>1</use_overlay>
+      <overlay_layer_magnification>1.0</overlay_layer_magnification>
+      <overlay_alpha>1.0</overlay_alpha>
+      <overlay_bias>0.125</overlay_bias>
+      <use_grain>1</use_grain>
+      <grain_layer_magnification>50.0</grain_layer_magnification>
+      <use_color_overlay>0</use_color_overlay>
+      <max_grass_height>0.35</max_grass_height>
+      <grass_density>1.0</grass_density>
+      <grass_groups>2</grass_groups>
+      <grass_modulate_by_overlay>1</grass_modulate_by_overlay>
+      <grass_modulate_height_min>0.0</grass_modulate_height_min>
+    </parameters>
+    <xsize>256</xsize>
+    <ysize>256</ysize>
+    <light-coverage>4000000.0</light-coverage>
+    <diffuse>
+      <r>0.93</r>
+      <g>0.95</g>
+      <b>0.93</b>
+      <a>1.0</a>
+    </diffuse>
+    <specular>
+      <r>0.1</r>
+      <g>0.12</g>
+      <b>0.1</b>
+      <a>1.0</a>
+    </specular>
+    <shininess>1.2</shininess>
+    <solid>1</solid>
+    <friction-factor>0.7</friction-factor>
+    <rolling-friction>0.1</rolling-friction>
+    <bumpiness>0.1</bumpiness>
+    <load-resistance>1e30</load-resistance>    
+  </material>
+
+    <material>
+    <!-- Grass cover is curated grass, so green all year round -->
+    <name>GrassCover</name>
+    <effect>Effects/grass</effect>
+    <texture-set>
+      <texture>Terrain/airport-grass-summer.png</texture>
+      <texture n="13">Terrain/airport-grass-summer.png</texture>
+      <texture n="14">Terrain/airport_grass_structure_overlay2.png</texture>
+      <texture n="20">Terrain/airport-grass-summer.png</texture>
+    </texture-set>
+    <parameters>
+      <grit_alpha>0.4</grit_alpha>
+      <base_layer_magnification>1.0</base_layer_magnification>
+      <use_overlay>1</use_overlay>
+      <overlay_bias>0.5</overlay_bias>
+      <use_color_overlay>0</use_color_overlay>
+      <overlay_layer_magnification>60.0</overlay_layer_magnification>
+
+      <!-- overlay_alpha is greater than one here. 
+           Reason: structure texture alpha was multiplied by 0.7 to 
+                   work for lowest cases when that texture is used in
+                   the grain slot which doesn't have alpha as of Oct 2020.
+                   Target alpha multiplier is ~0.85. 0.85/0.7 = 1.21
+      -->
+      <overlay_alpha>1.21</overlay_alpha>
+      <use_grain>0</use_grain>
+      <grain_layer_magnification>4.0</grain_layer_magnification>
+      <max_grass_height>0.3</max_grass_height>
+      <grass_density>1.0</grass_density>
+      <grass_groups>2</grass_groups>
+      <grass_modulate_by_overlay>0</grass_modulate_by_overlay>
+      <grass_modulate_height_min>0.0</grass_modulate_height_min>
+    </parameters>
+    <xsize>256</xsize>
+    <ysize>256</ysize>
+    <light-coverage>4000000.0</light-coverage>
+    <diffuse>
+      <r>0.93</r>
+      <g>0.95</g>
+      <b>0.93</b>
+      <a>1.0</a>
+    </diffuse>
+    <specular>
+      <r>0.1</r>
+      <g>0.12</g>
+      <b>0.1</b>
+      <a>1.0</a>
+    </specular>
+    <shininess>1.2</shininess>
+    <solid>1</solid>
+    <friction-factor>0.7</friction-factor>
+    <rolling-friction>0.1</rolling-friction>
+    <bumpiness>0.1</bumpiness>
+    <load-resistance>1e30</load-resistance>    
+    <!-- uncomment this to get volumetric grass on airport keep-->
+    <!-- 
+    <wood-coverage>10.0</wood-coverage>
+    <tree-texture>Trees/grass_blades.png</tree-texture>
+    <tree-varieties>1</tree-varieties>
+    <tree-range-m>200.0</tree-range-m>
+    <tree-height-m>0.3</tree-height-m>
+    <tree-width-m>1.0</tree-width-m> 
+    <tree-effect>Effects/tree-grass</tree-effect> 
+    -->
+    </material>
+
+    <material>
+    <name>EvergreenBroadCover</name>
+    <name>EvergreenForest</name>
+    <effect>Effects/forest</effect>
+    <tree-effect>Effects/tree-forest</tree-effect>
+    <texture-set>
+     <texture>Terrain/australia-scrub.png</texture>
+     <texture n="11">Terrain/australia-scrub-hires.png</texture>
+     <texture n="12">Terrain/australia-scrub-overlay.png</texture>
+     <texture n="13">Terrain/australia-cliffs.png</texture>
+    </texture-set>
+    <parameters>
+     <transition_model>0.5</transition_model>
+     <rock_strata>1</rock_strata>
+    </parameters>
+    <xsize>1000</xsize>
+    <ysize>1000</ysize>
+    <light-coverage>10000000.0</light-coverage>
+    <wood-coverage>1000</wood-coverage>
+    <tree-texture>Trees/australia-trees.png</tree-texture>
+    <tree-varieties>4</tree-varieties>
+    <tree-height-m>15.0</tree-height-m>
+    <tree-width-m>15.0</tree-width-m>
+    <rolling-friction>1</rolling-friction>
+    <bumpiness>1</bumpiness>
+  </material>
+
+    <material>
+    <name>Mangrove</name>
+    <effect>Effects/forest</effect>
+     <texture>Terrain/evergreen.png</texture>
+    <parameters>
+     <transition_model>0.5</transition_model>
+    </parameters>
+    <xsize>2000</xsize>
+    <ysize>2000</ysize>
+    <light-coverage>10000000.0</light-coverage>
+    <rolling-friction>1</rolling-friction>
+    <bumpiness>1</bumpiness>
+  </material>
+
+  <material>
+    <effect>Effects/forest</effect>
+    <name>DeciduousBroadCover</name>
+    <name>DeciduousForest</name>
+    <texture>Terrain/deciduous-hires-autumn.png</texture>
+    <xsize>2000</xsize>
+    <ysize>2000</ysize>
+    <light-coverage>10000000.0</light-coverage>
+    <tree-texture>Trees/deciduous-alt.png</tree-texture>
+    <tree-varieties>8</tree-varieties>
+    <tree-height-m>25.0</tree-height-m>
+    <tree-width-m>15.0</tree-width-m>
+    <rolling-friction>1</rolling-friction>
+    <bumpiness>0.85</bumpiness>
+  </material>
+
+    <material>
+    <effect>Effects/forest</effect>
+    <name>MixedForestCover</name>
+    <name>MixedForest</name>
+    <texture>Terrain/mixedforest-hires-autumn.png</texture>
+    <xsize>2000</xsize>
+    <ysize>2000</ysize>
+    <light-coverage>5000000.0</light-coverage>
+    <wood-coverage>4000.0</wood-coverage>
+    <tree-texture>Trees/mixed-alt.png</tree-texture>
+    <tree-varieties>8</tree-varieties>
+    <tree-height-m>25.0</tree-height-m>
+    <tree-width-m>15.0</tree-width-m>
+    <rolling-friction>1</rolling-friction>
+    <bumpiness>0.95</bumpiness>
+  </material>
+
+  <material>
+    <effect>Effects/forest</effect>
+    <name>Rainforest</name>
+    <texture>Terrain/mixedforest-hires.png</texture>
+    <xsize>2000</xsize>
+    <ysize>2000</ysize>
+    <light-coverage>5000000.0</light-coverage>
+    <wood-coverage>4000.0</wood-coverage>
+    <tree-texture>Trees/tropical.png</tree-texture>
+    <tree-varieties>8</tree-varieties>
+    <tree-height-m>25.0</tree-height-m>
+    <tree-width-m>15.0</tree-width-m>
+    <rolling-friction>1</rolling-friction>
+    <bumpiness>0.95</bumpiness>
+  </material>
+
+    <material>
+    <name>Sand</name>
+    <texture-set>
+      <texture>Terrain/sand-hawaii4.png</texture>
+      <texture n="11">Terrain/sand_hires_red.png</texture>
+      <texture n="14">Terrain/grain_texture.png</texture>
+    </texture-set>
+    <xsize>2000</xsize>
+    <ysize>2000</ysize>
+    <light-coverage>10000000.0</light-coverage>
+    <shininess>2.5</shininess>
+    <rolling-friction>0.1</rolling-friction>
+    <friction-factor>0.7</friction-factor>
+    <bumpiness>0.1</bumpiness>
+  </material>
+ 
+    <material>
+    <!--<effect>Effects/landmass-scrub</effect>-->
+    <name>ShrubCover</name>
+    <name>ShrubGrassCover</name>
+    <name>ScrubCover</name>
+    <name>Scrub</name>
+    <name>Sclerophyllous</name>
+    <texture-set>
+      <texture>Terrain/australia-outback-scrub.png</texture>
+      <texture n="11">Terrain/australia-outback-scrub-hires.png</texture>
+      <texture n="12">Terrain/australia-outback-scrub-overlay.png</texture>
+      <texture n="13">Terrain/rock_red.png</texture>
+      <texture n="14">Terrain/grain_texture.png</texture>
+    </texture-set>
+    <parameters>
+      <transition_model>0.0</transition_model>
+      <hires_overlay_bias>-0.25</hires_overlay_bias>
+      <dot_density>0.1</dot_density>
+      <dot_size>0.5</dot_size>
+      <grain_strength>0.1</grain_strength>
+    </parameters>
+    <xsize>2000</xsize>
+    <ysize>2000</ysize>
+    <diffuse>
+      <r>0.86</r>
+      <g>0.86</g>
+      <b>0.86</b>
+      <a>1.0</a>
+    </diffuse>
+    <specular>
+      <r>0.1</r>
+      <g>0.1</g>
+      <b>0.1</b>
+      <a>1.0</a>
+    </specular>
+    <shininess>1.2</shininess>
+    <light-coverage>20000000.0</light-coverage>
+    <wood-coverage>12000.0</wood-coverage>
+    <tree-texture>Trees/mixed-shrub.png</tree-texture>
+    <tree-varieties>8</tree-varieties>
+    <tree-height-m>2.0</tree-height-m>
+    <tree-width-m>2.0</tree-width-m>
+    <rolling-friction>0.6</rolling-friction>
+    <bumpiness>0.4</bumpiness>
+  </material>
+
+  <material>
+    <!--<effect>Effects/landmass-scrub</effect>-->
+    <name>Heath</name>
+    <texture-set>
+      <texture>Terrain/australia-heath-base.png</texture>
+      <texture n="11">Terrain/australia-heath-hires.png</texture>
+      <texture n="12">Terrain/australia-heath-overlay.png</texture>
+      <texture n="13">Terrain/rock_red.png</texture>
+      <texture n="14">Terrain/grain_texture.png</texture>
+    </texture-set>
+    <parameters>
+      <transition_model>0.0</transition_model>
+      <hires_overlay_bias>-0.25</hires_overlay_bias>
+      <dot_density>0.1</dot_density>
+      <dot_size>0.5</dot_size>
+      <grain_strength>0.1</grain_strength>
+    </parameters>
+    <xsize>1000</xsize>
+    <ysize>1000</ysize>
+    <diffuse>
+      <r>0.86</r>
+      <g>0.86</g>
+      <b>0.86</b>
+      <a>1.0</a>
+    </diffuse>
+    <specular>
+      <r>0.1</r>
+      <g>0.1</g>
+      <b>0.1</b>
+      <a>1.0</a>
+    </specular>
+    <shininess>1.2</shininess>
+    <light-coverage>20000000.0</light-coverage>
+    <wood-coverage>1200000.0</wood-coverage>
+    <rolling-friction>0.6</rolling-friction>
+    <bumpiness>0.4</bumpiness>
+  </material>
+
+    <material>
+      <name>IntermittentStream</name>
+      <!-- Note is same as intermittent lake for now -->
+    <texture-set>
+      <texture>Terrain/sand1.png</texture>
+      <texture n="11">Terrain/sand3.png</texture>
+    </texture-set>
+    <texture-set>
+      <texture>Terrain/sand2.png</texture>
+      <texture n="11">Terrain/sand1.png</texture>
+    </texture-set>
+    <texture-set>
+      <texture>Terrain/sand3.png</texture>
+      <texture n="11">Terrain/sand2.png</texture>
+    </texture-set>
+    <!--<texture>Terrain/sand1.png</texture>
+  <texture>Terrain/sand2.png</texture>
+  <texture>Terrain/sand3.png</texture>-->
+    <xsize>2000</xsize>
+    <ysize>2000</ysize>
+    <solid>1</solid>
+    <friction-factor>0.9</friction-factor>
+    <rolling-friction>0.04</rolling-friction>
+    <bumpiness>0.1</bumpiness>
+  </material>
+
+    <material>
+    <name>BareTundraCover</name>
+    <name>MixedTundraCover</name>
+    <effect>Effects/landmass-nowood</effect>
+    <texture-set>
+      <texture>Terrain/tundra2-autumn.png</texture>
+      <texture n="11">Terrain/grass_hires.png</texture>
+      <texture n="12">Terrain/rock.png</texture>
+    </texture-set>
+    <xsize>2000</xsize>
+    <ysize>2000</ysize>
+    <light-coverage>4000000.0</light-coverage>
+    <diffuse>
+      <r>0.93</r>
+      <g>0.95</g>
+      <b>0.93</b>
+      <a>1.0</a>
+    </diffuse>
+    <specular>
+      <r>0.1</r>
+      <g>0.12</g>
+      <b>0.1</b>
+      <a>1.0</a>
+    </specular>
+    <shininess>1.2</shininess>
+    <solid>1</solid>
+    <friction-factor>0.7</friction-factor>
+    <rolling-friction>0.1</rolling-friction>
+    <bumpiness>0.15</bumpiness>
+    <load-resistance>1e30</load-resistance>
+  </material>
+
+    <material>
+      <!--<effect>Effects/cropgrass</effect>-->
+      <name>Grassland</name>
+      <name>SavannaCover</name>
+    <name>Default</name>
+    <texture-set>
+      <texture>Terrain/australia-grassland-summer-1-large-matched.png</texture>
+      <texture n="12">Terrain/australia-grassland-summer-2-large-matched.png</texture>
+      <texture n="14">Terrain/grain_texture.png</texture>
+    </texture-set>
+    <parameters>
+      <rock_strata>1</rock_strata>
+      <transition_model>0.0</transition_model>
+      <hires_overlay_bias>0.0</hires_overlay_bias>
+      <dot_density>0.1</dot_density>
+      <dot_size>0.5</dot_size>
+      <grain_strength>0.1</grain_strength>
+    </parameters>
+    <xsize>2000</xsize>
+    <ysize>2000</ysize>
+    <light-coverage>2000000.0</light-coverage>
+    <diffuse>
+      <r>0.93</r>
+      <g>0.95</g>
+      <b>0.93</b>
+      <a>1.0</a>
+    </diffuse>
+    <specular>
+      <r>0.1</r>
+      <g>0.12</g>
+      <b>0.1</b>
+      <a>1.0</a>
+    </specular>
+    <shininess>1.2</shininess>
+    <solid>1</solid>
+    <friction-factor>0.7</friction-factor>
+    <rolling-friction>0.1</rolling-friction>
+    <bumpiness>0.3</bumpiness>
+    <load-resistance>1e30</load-resistance>
+    <wood-coverage>3000000.0</wood-coverage>
+    <tree-texture>Trees/australia-trees.png</tree-texture>
+    <tree-varieties>4</tree-varieties>
+    <tree-height-m>20.0</tree-height-m>
+    <tree-width-m>12.0</tree-width-m>
+  </material>
+
+  <material>
+  <effect>Effects/water-inland</effect>
+  <name>Stream</name>
+  <texture>Terrain/water-lake.png</texture>
+  <xsize>400</xsize>
+  <ysize>400</ysize>
+  <ambient>
+   <r>0.0</r>
+   <g>0.0</g>
+   <b>0.0</b>
+   <a>1.0</a>
+  </ambient>
+  <diffuse>
+   <r>0.5</r>
+   <g>0.5</g>
+   <b>0.5</b>
+   <a>1.0</a>
+  </diffuse>
+  <specular>
+   <r>0.3</r>
+   <g>0.3</g>
+   <b>0.3</b>
+   <a>1.0</a>
+  </specular>
+  <shininess>1.2</shininess>
+  <solid>0</solid>
+  <rolling-friction>1.5</rolling-friction>
+  <bumpiness>0.6</bumpiness>
+  <wood-coverage>5000.0</wood-coverage>
+    <tree-texture>Trees/australia-trees.png</tree-texture>
+    <tree-varieties>4</tree-varieties>
+    <tree-height-m>20.0</tree-height-m>
+    <tree-width-m>12.0</tree-width-m>
+
+</material>
+
+  <material>
+  <name>Rock</name>
+  <effect>Effects/rock</effect>
+     <texture-set>
+      <texture>Terrain/rock_red.png</texture>
+      <texture n="11">Terrain/gravel_red.png</texture>
+      <texture n="12">Terrain/rock_brown.png</texture>
+      <texture n="13">Terrain/rock_red.png</texture>
+      <texture n="14">Terrain/rock_grain01.png</texture>
+    </texture-set>
+  <parameters>
+	  <!--	  <base-color type="float-vec3">1.0 0.86 0.69</base-color>
+	  <overlay-color type="float-vec3">0.62 0.58 0.56</overlay-color>-->
+      <grain_strength>0.7</grain_strength>
+      <transition_model>0.3</transition_model>
+      <hires_overlay_bias>-0.2</hires_overlay_bias>
+      <overlay-alpha type="float">0.8</overlay-alpha>
+      <overlay-bias type="float">0.0</overlay-bias>
+      <contrast type="float">1.0</contrast>
+      <crack-depth type="float">0.9</crack-depth>
+      <crack-pattern-stretch type="float">7.0</crack-pattern-stretch>
+      <rock-brightness type="float">1.0</rock-brightness>
+      <grain-fade-power type="float">0.7</grain-fade-power>
+      <rock_strata>1</rock_strata>
+    </parameters>
+    <xsize>1000</xsize>
+    <ysize>1000</ysize>
+    <solid>1</solid>
+    <friction-factor>0.9</friction-factor>
+    <rolling-friction>0.1</rolling-friction>
+    <bumpiness>0.3</bumpiness>
+  </material>
+
+  <material>
+  <name>Marsh</name>
+  <name>FloodLand</name>
+  <name>SaltMarsh</name>
+  <name>HerbWetlandCover</name>
+  <name>WoodedWetlandCover</name>
+  <texture>Terrain/marsh2.png</texture>
+  <texture>Terrain/marsh3.png</texture>
+  <texture>Terrain/marsh4.png</texture>
+  <xsize>2000</xsize>
+  <ysize>2000</ysize>
+  <solid>1</solid>
+  <light-coverage>40000000.0</light-coverage>
+  <friction-factor>0.8</friction-factor>
+  <rolling-friction>0.3</rolling-friction>
+  <bumpiness>0.2</bumpiness>
+  <load-resistance>1e30</load-resistance>
+</material>
+
+<!-- Repeated from global-summer so that our outback water
+     doesn't freeze over in winter-->
+<material>
+    <effect>Effects/water-inland</effect>
+    <name>Lake</name>
+    <name>Pond</name>
+    <name>Reservoir</name>
+    <name>Lagoon</name>
+    <name>Estuary</name>
+    <name>Watercourse</name>
+    <name>Saline</name>
+    <texture>Terrain/water-lake.png</texture>
+    <xsize>400</xsize>
+    <ysize>400</ysize>
+    <ambient>
+      <r>0.0</r>
+      <g>0.0</g>
+      <b>0.0</b>
+      <a>1.0</a>
+    </ambient>
+    <diffuse>
+      <r>0.5</r>
+      <g>0.5</g>
+      <b>0.5</b>
+      <a>1.0</a>
+    </diffuse>
+    <specular>
+      <r>0.3</r>
+      <g>0.3</g>
+      <b>0.3</b>
+      <a>1.0</a>
+    </specular>
+    <shininess>1.2</shininess>
+    <solid>0</solid>
+    <rolling-friction>1.5</rolling-friction>
+    <bumpiness>0.6</bumpiness>
+  </material>
+
+  <material>
+  <name>Cliffs</name>
+  <effect>Effects/cliffs</effect>
+     <texture-set>
+       <texture>Terrain/australia-cliffs.png</texture>
+       <texture n="11">Terrain/australia-cliffs-hires.png</texture>
+       <texture n="12">Terrain/australia-cliffs.png</texture>
+       <texture n="14">Terrain/rock_grain01.png</texture>
+       <texture n="15">Terrain/airport_grass2.png</texture>
+
+    </texture-set>
+  <parameters>
+	  <!--	  <base-color type="float-vec3">1.0 0.86 0.69</base-color>
+	  <overlay-color type="float-vec3">0.62 0.58 0.56</overlay-color>-->
+      <grain_strength>1.0</grain_strength>
+      <transition_model>0.0</transition_model>
+      <hires_overlay_bias>-0.2</hires_overlay_bias>
+      <overlay-alpha type="float">0.8</overlay-alpha>
+      <overlay-bias type="float">0.0</overlay-bias>
+      <contrast type="float">1.0</contrast>
+      <crack-depth type="float">0.9</crack-depth>
+      <crack-pattern-stretch type="float">14.0</crack-pattern-stretch>
+      <rock-brightness type="float">1.0</rock-brightness>
+      <grain-fade-power type="float">0.7</grain-fade-power>
+      <rock_strata>1</rock_strata>
+      <is_cliff>1</is_cliff>
+      <dot_size>5.0</dot_size>
+      <dot_density>0.5</dot_density>
+    </parameters>
+    <xsize>1000</xsize>
+    <ysize>1000</ysize>
+    <solid>1</solid>
+    <friction-factor>0.9</friction-factor>
+    <rolling-friction>0.1</rolling-friction>
+    <bumpiness>0.3</bumpiness>
+  </material>
+
+  <!-- Man made land covers start here -->
+  
+ <material>
+  <name>MixedCropPastureCover</name>
+  <name>MixedCrop</name>
+  <name>ComplexCrop</name>
+ <texture-set>
+    <texture>Terrain/cropgrass-madagascar.png</texture>
+    <texture n="12">Terrain/tundra-hawaii-green.png</texture>
+  </texture-set>
+  <parameters>
+   <transition_model>0.5</transition_model>
+   <rock_strata>1</rock_strata>
+  </parameters>
+  <xsize>2000</xsize>
+  <ysize>2000</ysize>
+  <light-coverage>2000000.0</light-coverage>
+  <solid>1</solid>
+  <friction-factor>0.9</friction-factor>
+  <rolling-friction>0.1</rolling-friction>
+  <bumpiness>0.7</bumpiness>
+  <load-resistance>1e30</load-resistance>
+</material>
+
+<!-- default US style irrigated crops
+     repeated here to include winter
+     as well as summer -->
+  <material>
+    <effect>Effects/crop</effect>
+    <name>IrrCropPastureCover</name>
+    <name>IrrCrop</name>
+    <name>Orchard</name>
+    <name>Olives</name>
+    <name>Vineyard</name>
+    <name>Rice</name>
+    <texture>Terrain/irrcrop1.png</texture>
+    <texture>Terrain/irrcrop2.png</texture>
+    <texture>Terrain/irrcrop3.png</texture>
+    <object-mask>Terrain/irrcrop1.mask.png</object-mask>
+    <object-mask>Terrain/irrcrop2.mask.png</object-mask>
+    <object-mask>Terrain/irrcrop3.mask.png</object-mask>
+    <xsize>2000</xsize>
+    <ysize>2000</ysize>
+    <light-coverage>2000000.0</light-coverage>
+    <solid>1</solid>
+    <friction-factor>0.9</friction-factor>
+    <rolling-friction>0.3</rolling-friction>
+    <bumpiness>0.6</bumpiness>
+    <load-resistance>1e30</load-resistance>
+    <wood-coverage>10000.0</wood-coverage>
+    <tree-texture>Trees/australia-trees.png</tree-texture>
+    <tree-varieties>4</tree-varieties>
+    <tree-height-m>20.0</tree-height-m>
+    <tree-width-m>12.0</tree-width-m>
+  </material>
+
+<material>
+    <name>DryCropPastureCover</name>
+    <name>DryCrop</name>
+    <effect>Effects/agriculture</effect>
+    <texture-set>
+     <texture>Terrain/australia-drycrop-1.png</texture>
+     <texture n="16">Terrain/australia-drycrop-2.png</texture>
+    </texture-set>
+    <parameters>
+      <dot_density>0.1</dot_density>
+      <dot_size>0.5</dot_size>
+      <grain_strength>0.1</grain_strength>
+      <rock_strata>1</rock_strata>
+      <overlay_fraction>0.5</overlay_fraction>
+  <overlay_scale>2000.0</overlay_scale>
+  <distortion_factor>0.3</distortion_factor>
+  <rotation_flag>1</rotation_flag>
+  <rotation_scale>2000.0</rotation_scale>
+  <uv_xoffset>0.0</uv_xoffset>
+  <uv_yoffset>0.0</uv_yoffset>
+    </parameters>
+    <xsize>1000</xsize>
+    <ysize>1000</ysize>
+    <solid>1</solid>
+    <friction-factor>0.9</friction-factor>
+    <rolling-friction>0.1</rolling-friction>
+    <bumpiness>0.6</bumpiness>
+    <load-resistance>1e30</load-resistance>
+    <light-coverage>2000000.0</light-coverage>
+    <wood-coverage>3000000.0</wood-coverage>
+    <tree-texture>Trees/australia-trees.png</tree-texture>
+    <tree-varieties>4</tree-varieties>
+    <tree-height-m>20.0</tree-height-m>
+    <tree-width-m>12.0</tree-width-m>
+  </material>
+
+<material>
+  <name>GolfCourse</name>
+  <texture-set>
+  <texture>Terrain/australia-country-golf.png</texture>
+  </texture-set>
+  <texture-set>
+    <texture>Terrain/australia-dirt-golf.png</texture>
+  </texture-set>
+    <object-mask>Terrain/australia-country-golf-mask.png</object-mask>
+    <object-mask>Terrain/australia-dirt-golf-mask.png</object-mask>
+
+  <xsize>800</xsize>
+  <ysize>800</ysize>
+  <light-coverage>2000000.0</light-coverage>
+  <diffuse>
+   <r>0.93</r>
+   <g>0.95</g>
+   <b>0.93</b>
+   <a>1.0</a>
+  </diffuse>
+  <specular>
+   <r>0.1</r>
+   <g>0.12</g>
+   <b>0.1</b>
+   <a>1.0</a>
+  </specular>
+  <shininess>1.2</shininess>
+  <solid>1</solid>
+  <friction-factor>0.7</friction-factor>
+  <rolling-friction>0.1</rolling-friction>
+  <bumpiness>0.3</bumpiness>
+  <load-resistance>1e30</load-resistance>
+  <wood-coverage>5000.0</wood-coverage>
+  <tree-texture>Trees/australia-trees.png</tree-texture>
+  <tree-varieties>4</tree-varieties>
+  <tree-height-m>20.0</tree-height-m>
+  <tree-width-m>12.0</tree-width-m>
+</material>
+
+<material>
+  <name>CropWoodCover</name>
+  <name>CropWood</name>
+  <name>AgroForest</name>
+  <texture>Terrain/forest.png</texture>
+  <xsize>1000</xsize>
+  <ysize>1000</ysize>
+  <light-coverage>2000000.0</light-coverage>
+  <solid>1</solid>
+  <friction-factor>0.4</friction-factor>
+  <rolling-friction>0.6</rolling-friction>
+  <bumpiness>0.7</bumpiness>
+  <load-resistance>10</load-resistance>
+  <wood-coverage>1000.0</wood-coverage>
+  <plantation>true</plantation>
+  <parameters>
+    <use_forest_effect>false</use_forest_effect>
+  </parameters>
+  <tree-texture>Trees/australia-trees.png</tree-texture>
+  <tree-varieties>4</tree-varieties>
+  <tree-height-m>20.0</tree-height-m>
+  <tree-width-m>12.0</tree-width-m>
+</material>
+
+  <material>
+    <name>Construction</name>
+    <name>Industrial</name>
+    <name>Commercial</name>
+    <texture-set>
+      <texture>Terrain/australia-commercial.png</texture>
+    </texture-set>
+    <xsize>1000</xsize>
+    <ysize>1000</ysize>
+    <light-coverage>100000.0</light-coverage>
+    <emissive>
+      <r>0.05</r>
+      <g>0.05</g>
+      <b>0.02</b>
+      <a>1.0</a>
+    </emissive>
+    <object-group include="Materials/base/industrial-buildings.xml"/>
+  </material>
+
+  <!-- Australian town without the relief -->
+  <material>
+    <name>Town</name>
+    <name>SubUrban</name>
+    <!--<effect>Effects/urban</effect>-->
+    <texture-set>
+      <texture>Terrain/australia_suburbs.png</texture>
+  </texture-set>
+  <object-mask>Terrain/australia_suburbs_tree_mask.png</object-mask>
+    <xsize>1000</xsize>
+    <ysize>1000</ysize>
+    <light-coverage>100000.0</light-coverage>
+    <emissive>
+      <r>0.05</r>
+      <g>0.05</g>
+      <b>0.02</b>
+      <a>1.0</a>
+    </emissive>
+    <object-group include="Materials/base/town-buildings.xml"/>
+    <building-coverage>2500.0</building-coverage>
+    <building-small-ratio>0.9</building-small-ratio>
+    <building-medium-ratio>0.1</building-medium-ratio>
+    <building-large-ratio>0.0</building-large-ratio>
+    <building-medium-max-floors>4</building-medium-max-floors>
+    <wood-coverage>5000.0</wood-coverage>
+    <tree-texture>Trees/australia-trees.png</tree-texture>
+    <tree-varieties>4</tree-varieties>
+    <tree-height-m>12.0</tree-height-m>
+    <tree-width-m>7.0</tree-width-m>
+  </material>
+
+      <material>
+    <name>Cemetery</name>
+    <texture-set>
+      <texture>Terrain/cemetery.png</texture>
+    </texture-set>
+    <object-mask>Terrain/cemetery-mask.png</object-mask>
+    <parameters>
+      <grit_alpha>0.4</grit_alpha>
+      <use_overlay>1</use_overlay>
+      <overlay_bias>0.5</overlay_bias>
+      <use_color_overlay>0</use_color_overlay>
+      <base_layer_magnification>1.0</base_layer_magnification>
+      <overlay_layer_magnification>8.0</overlay_layer_magnification>
+    </parameters>
+    <xsize>1024</xsize>
+    <ysize>1024</ysize>
+    <light-coverage>4000000.0</light-coverage>
+    <diffuse>
+      <r>0.93</r>
+      <g>0.95</g>
+      <b>0.93</b>
+      <a>1.0</a>
+    </diffuse>
+    <specular>
+      <r>0.1</r>
+      <g>0.12</g>
+      <b>0.1</b>
+      <a>1.0</a>
+    </specular>
+    <shininess>1.2</shininess>
+    <solid>1</solid>
+    <friction-factor>0.7</friction-factor>
+    <rolling-friction>0.1</rolling-friction>
+    <bumpiness>0.1</bumpiness>
+    <load-resistance>1e30</load-resistance>    
+    <wood-coverage>100.0</wood-coverage>
+    <tree-texture>Trees/australia-trees.png</tree-texture>
+    <tree-varieties>4</tree-varieties>
+    <tree-height-m>12</tree-height-m>
+    <tree-width-m>7.0</tree-width-m> 
+
+  </material>
+
+  <material>
+    <name>Littoral</name>
+    <texture-set>
+      <texture>Terrain/sand4.png</texture>
+      <texture n="11">Terrain/sand_hires.png</texture>
+    </texture-set>
+    <texture-set>
+      <texture>Terrain/sand6.png</texture>
+      <texture n="11">Terrain/sand6_hires.png</texture>
+    </texture-set>
+    <!--<texture>Terrain/sand4.png</texture>
+  <texture>Terrain/sand5.png</texture>
+  <texture>Terrain/sand6.png</texture>-->
+    <xsize>2000</xsize>
+    <ysize>2000</ysize>
+    <light-coverage>10000000.0</light-coverage>
+    <shininess>2.5</shininess>
+    <rolling-friction>0.1</rolling-friction>
+    <friction-factor>0.7</friction-factor>
+    <bumpiness>0.1</bumpiness>
+  </material>
+
+    <material>
+    <name>OpenMining</name>
+    <name>Dump</name>
+    <texture>Terrain/california-rock.png</texture>
+      <xsize>2000</xsize>
+      <ysize>2000</ysize>
+      <solid>1</solid>
+      <friction-factor>0.9</friction-factor>
+      <rolling-friction>0.1</rolling-friction>
+      <bumpiness>0.3</bumpiness>
+  </material>
+
+  <material>
+    <name>Freeway</name>
+  <name>Road-Motorway</name>
+  <name>Road-Trunk</name>
+  <texture>Terrain/asphalt.png</texture>
+  <xsize>1000</xsize>
+  <ysize>1000</ysize>
+  <light-coverage>10000.0</light-coverage>
+  <solid>1</solid>
+  <friction-factor>1.0</friction-factor>
+  <rolling-friction>0.02</rolling-friction>
+  <bumpiness>0.01</bumpiness>
+  <load-resistance>1e10</load-resistance>
+</material>
+
+<material>
+  <name>Road-Primary</name>
+  <name>Road-Secondary</name>
+  <name>Road</name>
+  <texture>Terrain/asphalt.png</texture>
+  <xsize>1000</xsize>
+  <ysize>1000</ysize>
+  <light-coverage>10000.0</light-coverage>
+  <solid>1</solid>
+  <friction-factor>1.0</friction-factor>
+  <rolling-friction>0.02</rolling-friction>
+  <bumpiness>0.01</bumpiness>
+  <load-resistance>1e10</load-resistance>
+</material>
+
+<material>
+  <name>Road-Tertiary</name>
+  <texture>Terrain/asphalt.png</texture>
+  <xsize>1000</xsize>
+  <ysize>1000</ysize>
+  <light-coverage>10000.0</light-coverage>
+  <solid>1</solid>
+  <friction-factor>1.0</friction-factor>
+  <rolling-friction>0.02</rolling-friction>
+  <bumpiness>0.01</bumpiness>
+  <load-resistance>1e10</load-resistance>
+</material>
+
+<material>
+  <!-- An unclassified road is unsurfaced -->
+  <name>Road-Unclassified</name>
+  <texture>Terrain/gravel_red.png</texture>
+  <xsize>1000</xsize>
+  <ysize>1000</ysize>
+  <light-coverage>10000.0</light-coverage>
+  <solid>1</solid>
+  <friction-factor>1.0</friction-factor>
+  <rolling-friction>0.02</rolling-friction>
+  <bumpiness>0.01</bumpiness>
+  <load-resistance>1e10</load-resistance>
+</material>
+
+<material>
+  <name>Railroad</name>		
+  <texture>Terrain/asphalt.png</texture>
+  <xsize>1000</xsize>
+  <ysize>1000</ysize>
+  <light-coverage>10000.0</light-coverage>
+  <solid>1</solid>
+  <friction-factor>1.0</friction-factor>
+  <rolling-friction>0.02</rolling-friction>
+  <bumpiness>0.01</bumpiness>
+  <load-resistance>1e10</load-resistance>
+</material>
+	
+</PropertyList>

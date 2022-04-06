@@ -1,0 +1,439 @@
+﻿  FParser.cpp
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\FParser.h(30,40): error C2065: 'LINESIZE': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\FParser.h(30,40): error C2131: expression did not evaluate to a constant
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\FParser.h(30,40): message : a non-constant (sub-)expression was encountered
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\FParser.h(33,20): error C2131: expression did not evaluate to a constant
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\FParser.h(33,20): message : failure was caused by non-constant arguments or reference to a non-constant symbol
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\FParser.h(33,20): message : see usage of 'PARSER_LINE_LEN'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(40,36): error C2061: syntax error: identifier 'GpsPosition'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(45,36): error C2653: 'FPRealData': is not a class or namespace name
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(45,48): error C2061: syntax error: identifier 'ControllerProperties'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(45,74): error C2535: 'bool ParameterNames::insert(const char *)': member function already defined or declared
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(40): message : see declaration of 'ParameterNames::insert'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(48,32): error C2061: syntax error: identifier 'L1Params'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(48,44): error C2535: 'bool ParameterNames::insert(const char *)': member function already defined or declared
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(40): message : see declaration of 'ParameterNames::insert'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(49,35): error C2061: syntax error: identifier 'TECSParams'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(49,49): error C2535: 'bool ParameterNames::insert(const char *)': member function already defined or declared
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(40): message : see declaration of 'ParameterNames::insert'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(164,43): error C2061: syntax error: identifier 'GpsPosition'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(169,20): error C2143: syntax error: missing ';' before '*'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(169,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(169,29): error C2238: unexpected token(s) preceding ';'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(170,9): error C2653: 'GpsPosition': is not a class or namespace name
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(170,32): error C3646: '_setFun': unknown override specifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(170,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(171,9): error C2653: 'GpsPosition': is not a class or namespace name
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(171,32): error C3646: '_getFun': unknown override specifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(171,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(190,36): error C2653: 'FPRealData': is not a class or namespace name
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(190,48): error C2061: syntax error: identifier 'ControllerProperties'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(192,9): error C2653: 'FPRealData': is not a class or namespace name
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(192,41): error C2143: syntax error: missing ';' before '*'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(192,41): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(192,48): error C2238: unexpected token(s) preceding ';'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(227,34): error C2061: syntax error: identifier 'L1Params'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(228,11): error C2143: syntax error: missing ';' before '*'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(228,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(228,15): error C2238: unexpected token(s) preceding ';'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(237,36): error C2061: syntax error: identifier 'TECSParams'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(238,13): error C2143: syntax error: missing ';' before '*'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(238,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(238,17): error C2238: unexpected token(s) preceding ';'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(166,38): error C2065: 'readOnly': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(166,48): error C2065: 'userActionFlag': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(166,73): error C2065: 'gpsPtr': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(167,25): error C2065: 'setFun': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(167,42): error C2065: 'getFun': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(167,57): error C2065: 'vmin': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(167,70): error C2065: 'vmax': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(167,86): error C2065: 'decimal': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(166,65): error C2614: 'ParameterNames::ParGpsDoubleFun': illegal member initialization: '_gpsPtr' is not a base or member
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(167,17): error C2614: 'ParameterNames::ParGpsDoubleFun': illegal member initialization: '_setFun' is not a base or member
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(167,34): error C2614: 'ParameterNames::ParGpsDoubleFun': illegal member initialization: '_getFun' is not a base or member
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(38,62): error C2061: syntax error: identifier 'INT16U'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(42,18): error C2039: 'vector': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\iostream(19): message : see declaration of 'std'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(42,24): error C2143: syntax error: missing ';' before '<'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(42,24): error C2433: 'StorageBase::vector': 'virtual' not permitted on data declarations
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(42,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(42,69): error C2238: unexpected token(s) preceding ';'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(43,18): error C2039: 'vector': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\iostream(19): message : see declaration of 'std'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(43,24): error C2143: syntax error: missing ';' before '<'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(43,24): error C2433: 'StorageBase::vector': 'virtual' not permitted on data declarations
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(43,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(43,56): error C2238: unexpected token(s) preceding ';'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\FParser.cpp(16,18): error C3863: array type 'char [PARSER_LINE_LEN]' is not assignable
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\FParser.cpp(28,14): error C2440: 'return': cannot convert from 'const char [1]' to 'char *'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\FParser.cpp(28,12): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\FParser.cpp(87,31): error C3863: array type 'char [PARSER_LINE_LEN]' is not assignable
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\FParser.cpp(110,18): error C3863: array type 'char [PARSER_LINE_LEN]' is not assignable
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\FParser.cpp(116,16): error C3863: array type 'char [PARSER_LINE_LEN]' is not assignable
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\FParser.cpp(131,6): error C3861: 'STRNICMP': identifier not found
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\FParser.cpp(146,6): error C3861: 'STRNICMP': identifier not found
+  GeneralUtils.cpp
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\GeneralUtils.cpp(208,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\GeneralUtils.cpp(209,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\GeneralUtils.cpp(212,3): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\GeneralUtils.cpp(213,3): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\GeneralUtils.cpp(215,4): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\GeneralUtils.cpp(217,4): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\GeneralUtils.cpp(219,3): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\GeneralUtils.cpp(223,4): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\GeneralUtils.cpp(224,4): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\GeneralUtils.cpp(230,4): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ParameterNames.cpp
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\FParser.h(30,40): error C2065: 'LINESIZE': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\FParser.h(30,40): error C2131: expression did not evaluate to a constant
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\FParser.h(30,40): message : a non-constant (sub-)expression was encountered
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\FParser.h(33,20): error C2131: expression did not evaluate to a constant
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\FParser.h(33,20): message : failure was caused by non-constant arguments or reference to a non-constant symbol
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\FParser.h(33,20): message : see usage of 'PARSER_LINE_LEN'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(40,36): error C2061: syntax error: identifier 'GpsPosition'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(45,36): error C2653: 'FPRealData': is not a class or namespace name
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(45,48): error C2061: syntax error: identifier 'ControllerProperties'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(45,74): error C2535: 'bool ParameterNames::insert(const char *)': member function already defined or declared
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(40): message : see declaration of 'ParameterNames::insert'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(48,32): error C2061: syntax error: identifier 'L1Params'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(48,44): error C2535: 'bool ParameterNames::insert(const char *)': member function already defined or declared
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(40): message : see declaration of 'ParameterNames::insert'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(49,35): error C2061: syntax error: identifier 'TECSParams'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(49,49): error C2535: 'bool ParameterNames::insert(const char *)': member function already defined or declared
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(40): message : see declaration of 'ParameterNames::insert'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(164,43): error C2061: syntax error: identifier 'GpsPosition'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(169,20): error C2143: syntax error: missing ';' before '*'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(169,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(169,29): error C2238: unexpected token(s) preceding ';'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(170,9): error C2653: 'GpsPosition': is not a class or namespace name
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(170,32): error C3646: '_setFun': unknown override specifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(170,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(171,9): error C2653: 'GpsPosition': is not a class or namespace name
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(171,32): error C3646: '_getFun': unknown override specifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(171,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(190,36): error C2653: 'FPRealData': is not a class or namespace name
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(190,48): error C2061: syntax error: identifier 'ControllerProperties'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(192,9): error C2653: 'FPRealData': is not a class or namespace name
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(192,41): error C2143: syntax error: missing ';' before '*'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(192,41): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(192,48): error C2238: unexpected token(s) preceding ';'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(227,34): error C2061: syntax error: identifier 'L1Params'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(228,11): error C2143: syntax error: missing ';' before '*'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(228,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(228,15): error C2238: unexpected token(s) preceding ';'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(237,36): error C2061: syntax error: identifier 'TECSParams'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(238,13): error C2143: syntax error: missing ';' before '*'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(238,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(238,17): error C2238: unexpected token(s) preceding ';'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(166,38): error C2065: 'readOnly': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(166,48): error C2065: 'userActionFlag': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(166,73): error C2065: 'gpsPtr': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(167,25): error C2065: 'setFun': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(167,42): error C2065: 'getFun': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(167,57): error C2065: 'vmin': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(167,70): error C2065: 'vmax': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(167,86): error C2065: 'decimal': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(166,65): error C2614: 'ParameterNames::ParGpsDoubleFun': illegal member initialization: '_gpsPtr' is not a base or member
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(167,17): error C2614: 'ParameterNames::ParGpsDoubleFun': illegal member initialization: '_setFun' is not a base or member
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(167,34): error C2614: 'ParameterNames::ParGpsDoubleFun': illegal member initialization: '_getFun' is not a base or member
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(38,62): error C2061: syntax error: identifier 'INT16U'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(42,18): error C2039: 'vector': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\iostream(19): message : see declaration of 'std'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(42,24): error C2143: syntax error: missing ';' before '<'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(42,24): error C2433: 'StorageBase::vector': 'virtual' not permitted on data declarations
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(42,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(42,69): error C2238: unexpected token(s) preceding ';'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(43,18): error C2039: 'vector': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\iostream(19): message : see declaration of 'std'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(43,24): error C2143: syntax error: missing ';' before '<'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(43,24): error C2433: 'StorageBase::vector': 'virtual' not permitted on data declarations
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(43,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(43,56): error C2238: unexpected token(s) preceding ';'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(29,9): error C2065: 'Log': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(43,42): error C3861: 'STRICMP': identifier not found
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(56,42): error C3861: 'STRNICMP': identifier not found
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(82,9): error C2065: 'Log': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(104,13): error C2065: 'Log': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(125,13): error C2065: 'Log': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(129,9): error C2065: 'Log': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(147,17): error C2065: 'Log': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(150,9): error C2065: 'Log': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(168,17): error C2065: 'LINESIZE': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(169,15): error C2065: 'LINESIZE': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(174,9): error C3861: 'SNPRINTF': identifier not found
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(178,43): error C3861: 'STRICMP': identifier not found
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(179,42): error C3861: 'STRNICMP': identifier not found
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(191,13): error C3861: 'SNPRINTF': identifier not found
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(192,15): error C2027: use of undefined type 'ClassifiedLine'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(14): message : see declaration of 'ClassifiedLine'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(208,17): error C2065: 'LINESIZE': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(213,9): error C3861: 'SNPRINTF': identifier not found
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(215,43): error C3861: 'STRICMP': identifier not found
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(216,42): error C3861: 'STRNICMP': identifier not found
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(239,9): error C2065: 'Log': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(246,9): error C2065: 'Log': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(267,9): error C2065: 'Log': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(274,9): error C2065: 'Log': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(296,9): error C2065: 'Log': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(303,9): error C2065: 'Log': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(325,9): error C2065: 'Log': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(332,9): error C2065: 'Log': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(351,82): error C2027: use of undefined type 'GpsPosition'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\TypeParser.h(13): message : see declaration of 'GpsPosition'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(351,92): error C2061: syntax error: identifier 'setDblFun'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(353,1): error C2511: 'bool ParameterNames::insert(const char *,GpsPosition *)': overloaded member function not found in 'ParameterNames'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(18): message : see declaration of 'ParameterNames'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(354,10): error C2352: 'ParameterNames::isParsValid': illegal call of non-static member function
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(53): message : see declaration of 'ParameterNames::isParsValid'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(356,9): error C2065: 'Log': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(360,62): error C2065: 'setFun': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(360,70): error C2065: 'getFun': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(360,78): error C2065: 'vmin': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(360,84): error C2065: 'vmax': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(360,90): error C2065: 'decimal': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(360,99): error C2065: 'readOnly': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(360,109): error C2065: 'userActionFlag': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(363,9): error C2065: 'Log': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(367,19): error C2597: illegal reference to non-static member 'ParameterNames::_nPars'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(367,19): error C3867: 'ParameterNames::_nPars': non-standard syntax; use '&' to create a pointer to member
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(367,19): error C2105: '++' needs l-value
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(367,21): error C2597: illegal reference to non-static member 'ParameterNames::_parTab'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(367,21): error C3867: 'ParameterNames::_parTab': non-standard syntax; use '&' to create a pointer to member
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(367,21): error C2109: subscript requires array or pointer type
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(378,48): error C2653: 'FPRealData': is not a class or namespace name
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(378,60): error C2061: syntax error: identifier 'ControllerProperties'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(382,9): error C2065: 'Log': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(386,39): error C2065: 'ptr': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(389,9): error C2065: 'Log': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.cpp(389,12): fatal error C1003: error count exceeds 100; stopping compilation
+  StorageBase.cpp
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\FParser.h(30,40): error C2065: 'LINESIZE': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\FParser.h(30,40): error C2131: expression did not evaluate to a constant
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\FParser.h(30,40): message : a non-constant (sub-)expression was encountered
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\FParser.h(33,20): error C2131: expression did not evaluate to a constant
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\FParser.h(33,20): message : failure was caused by non-constant arguments or reference to a non-constant symbol
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\FParser.h(33,20): message : see usage of 'PARSER_LINE_LEN'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(40,36): error C2061: syntax error: identifier 'GpsPosition'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(45,36): error C2653: 'FPRealData': is not a class or namespace name
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(45,48): error C2061: syntax error: identifier 'ControllerProperties'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(45,74): error C2535: 'bool ParameterNames::insert(const char *)': member function already defined or declared
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(40): message : see declaration of 'ParameterNames::insert'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(48,32): error C2061: syntax error: identifier 'L1Params'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(48,44): error C2535: 'bool ParameterNames::insert(const char *)': member function already defined or declared
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(40): message : see declaration of 'ParameterNames::insert'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(49,35): error C2061: syntax error: identifier 'TECSParams'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(49,49): error C2535: 'bool ParameterNames::insert(const char *)': member function already defined or declared
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(40): message : see declaration of 'ParameterNames::insert'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(164,43): error C2061: syntax error: identifier 'GpsPosition'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(169,20): error C2143: syntax error: missing ';' before '*'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(169,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(169,29): error C2238: unexpected token(s) preceding ';'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(170,9): error C2653: 'GpsPosition': is not a class or namespace name
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(170,32): error C3646: '_setFun': unknown override specifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(170,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(171,9): error C2653: 'GpsPosition': is not a class or namespace name
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(171,32): error C3646: '_getFun': unknown override specifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(171,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(190,36): error C2653: 'FPRealData': is not a class or namespace name
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(190,48): error C2061: syntax error: identifier 'ControllerProperties'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(192,9): error C2653: 'FPRealData': is not a class or namespace name
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(192,41): error C2143: syntax error: missing ';' before '*'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(192,41): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(192,48): error C2238: unexpected token(s) preceding ';'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(227,34): error C2061: syntax error: identifier 'L1Params'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(228,11): error C2143: syntax error: missing ';' before '*'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(228,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(228,15): error C2238: unexpected token(s) preceding ';'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(237,36): error C2061: syntax error: identifier 'TECSParams'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(238,13): error C2143: syntax error: missing ';' before '*'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(238,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(238,17): error C2238: unexpected token(s) preceding ';'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(166,38): error C2065: 'readOnly': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(166,48): error C2065: 'userActionFlag': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(166,73): error C2065: 'gpsPtr': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(167,25): error C2065: 'setFun': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(167,42): error C2065: 'getFun': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(167,57): error C2065: 'vmin': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(167,70): error C2065: 'vmax': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(167,86): error C2065: 'decimal': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(166,65): error C2614: 'ParameterNames::ParGpsDoubleFun': illegal member initialization: '_gpsPtr' is not a base or member
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(167,17): error C2614: 'ParameterNames::ParGpsDoubleFun': illegal member initialization: '_setFun' is not a base or member
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(167,34): error C2614: 'ParameterNames::ParGpsDoubleFun': illegal member initialization: '_getFun' is not a base or member
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(38,62): error C2061: syntax error: identifier 'INT16U'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(42,18): error C2039: 'vector': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\iostream(19): message : see declaration of 'std'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(42,24): error C2143: syntax error: missing ';' before '<'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(42,24): error C2433: 'StorageBase::vector': 'virtual' not permitted on data declarations
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(42,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(42,69): error C2238: unexpected token(s) preceding ';'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(43,18): error C2039: 'vector': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\iostream(19): message : see declaration of 'std'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(43,24): error C2143: syntax error: missing ';' before '<'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(43,24): error C2433: 'StorageBase::vector': 'virtual' not permitted on data declarations
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(43,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(43,56): error C2238: unexpected token(s) preceding ';'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.cpp(16,9): error C2065: 'Log': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.cpp(25,9): error C2065: 'Log': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.cpp(41,9): error C2065: 'Log': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.cpp(50,9): error C2065: 'Log': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.cpp(78,13): error C2065: 'Os': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.cpp(80,5): error C3861: 'SNPRINTF': identifier not found
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.cpp(110,25): error C2065: 'LINESIZE': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.cpp(113,5): error C2065: 'Os': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.cpp(117,30): error C2065: 'Os': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.cpp(121,30): error C2065: 'LINESIZE': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.cpp(121,9): error C3861: 'SNPRINTF': identifier not found
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.cpp(129,5): error C2065: 'Os': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.cpp(137,15): error C2065: 'LINESIZE': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.cpp(141,24): error C2065: 'LINESIZE': undeclared identifier
+  test.cpp
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\FParser.h(30,40): error C2065: 'LINESIZE': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\FParser.h(30,40): error C2131: expression did not evaluate to a constant
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\FParser.h(30,40): message : a non-constant (sub-)expression was encountered
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\FParser.h(33,20): error C2131: expression did not evaluate to a constant
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\FParser.h(33,20): message : failure was caused by non-constant arguments or reference to a non-constant symbol
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\FParser.h(33,20): message : see usage of 'PARSER_LINE_LEN'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(40,36): error C2061: syntax error: identifier 'GpsPosition'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(45,36): error C2653: 'FPRealData': is not a class or namespace name
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(45,48): error C2061: syntax error: identifier 'ControllerProperties'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(45,74): error C2535: 'bool ParameterNames::insert(const char *)': member function already defined or declared
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(40): message : see declaration of 'ParameterNames::insert'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(48,32): error C2061: syntax error: identifier 'L1Params'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(48,44): error C2535: 'bool ParameterNames::insert(const char *)': member function already defined or declared
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(40): message : see declaration of 'ParameterNames::insert'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(49,35): error C2061: syntax error: identifier 'TECSParams'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(49,49): error C2535: 'bool ParameterNames::insert(const char *)': member function already defined or declared
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(40): message : see declaration of 'ParameterNames::insert'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(164,43): error C2061: syntax error: identifier 'GpsPosition'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(169,20): error C2143: syntax error: missing ';' before '*'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(169,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(169,29): error C2238: unexpected token(s) preceding ';'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(170,9): error C2653: 'GpsPosition': is not a class or namespace name
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(170,32): error C3646: '_setFun': unknown override specifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(170,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(171,9): error C2653: 'GpsPosition': is not a class or namespace name
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(171,32): error C3646: '_getFun': unknown override specifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(171,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(190,36): error C2653: 'FPRealData': is not a class or namespace name
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(190,48): error C2061: syntax error: identifier 'ControllerProperties'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(192,9): error C2653: 'FPRealData': is not a class or namespace name
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(192,41): error C2143: syntax error: missing ';' before '*'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(192,41): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(192,48): error C2238: unexpected token(s) preceding ';'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(227,34): error C2061: syntax error: identifier 'L1Params'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(228,11): error C2143: syntax error: missing ';' before '*'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(228,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(228,15): error C2238: unexpected token(s) preceding ';'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(237,36): error C2061: syntax error: identifier 'TECSParams'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(238,13): error C2143: syntax error: missing ';' before '*'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(238,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(238,17): error C2238: unexpected token(s) preceding ';'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(166,38): error C2065: 'readOnly': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(166,48): error C2065: 'userActionFlag': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(166,73): error C2065: 'gpsPtr': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(167,25): error C2065: 'setFun': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(167,42): error C2065: 'getFun': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(167,57): error C2065: 'vmin': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(167,70): error C2065: 'vmax': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(167,86): error C2065: 'decimal': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(166,65): error C2614: 'ParameterNames::ParGpsDoubleFun': illegal member initialization: '_gpsPtr' is not a base or member
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(167,17): error C2614: 'ParameterNames::ParGpsDoubleFun': illegal member initialization: '_setFun' is not a base or member
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(167,34): error C2614: 'ParameterNames::ParGpsDoubleFun': illegal member initialization: '_getFun' is not a base or member
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(38,62): error C2061: syntax error: identifier 'INT16U'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(42,18): error C2039: 'vector': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\iostream(19): message : see declaration of 'std'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(42,24): error C2143: syntax error: missing ';' before '<'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(42,24): error C2433: 'StorageBase::vector': 'virtual' not permitted on data declarations
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(42,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(42,69): error C2238: unexpected token(s) preceding ';'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(43,18): error C2039: 'vector': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\iostream(19): message : see declaration of 'std'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(43,24): error C2143: syntax error: missing ';' before '<'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(43,24): error C2433: 'StorageBase::vector': 'virtual' not permitted on data declarations
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(43,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(43,56): error C2238: unexpected token(s) preceding ';'
+  TypeParser.cpp
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\FParser.h(30,40): error C2065: 'LINESIZE': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\FParser.h(30,40): error C2131: expression did not evaluate to a constant
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\FParser.h(30,40): message : a non-constant (sub-)expression was encountered
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\FParser.h(33,20): error C2131: expression did not evaluate to a constant
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\FParser.h(33,20): message : failure was caused by non-constant arguments or reference to a non-constant symbol
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\FParser.h(33,20): message : see usage of 'PARSER_LINE_LEN'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(40,36): error C2061: syntax error: identifier 'GpsPosition'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(45,36): error C2653: 'FPRealData': is not a class or namespace name
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(45,48): error C2061: syntax error: identifier 'ControllerProperties'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(45,74): error C2535: 'bool ParameterNames::insert(const char *)': member function already defined or declared
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(40): message : see declaration of 'ParameterNames::insert'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(48,32): error C2061: syntax error: identifier 'L1Params'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(48,44): error C2535: 'bool ParameterNames::insert(const char *)': member function already defined or declared
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(40): message : see declaration of 'ParameterNames::insert'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(49,35): error C2061: syntax error: identifier 'TECSParams'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(49,49): error C2535: 'bool ParameterNames::insert(const char *)': member function already defined or declared
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(40): message : see declaration of 'ParameterNames::insert'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(164,43): error C2061: syntax error: identifier 'GpsPosition'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(169,20): error C2143: syntax error: missing ';' before '*'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(169,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(169,29): error C2238: unexpected token(s) preceding ';'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(170,9): error C2653: 'GpsPosition': is not a class or namespace name
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(170,32): error C3646: '_setFun': unknown override specifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(170,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(171,9): error C2653: 'GpsPosition': is not a class or namespace name
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(171,32): error C3646: '_getFun': unknown override specifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(171,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(190,36): error C2653: 'FPRealData': is not a class or namespace name
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(190,48): error C2061: syntax error: identifier 'ControllerProperties'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(192,9): error C2653: 'FPRealData': is not a class or namespace name
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(192,41): error C2143: syntax error: missing ';' before '*'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(192,41): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(192,48): error C2238: unexpected token(s) preceding ';'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(227,34): error C2061: syntax error: identifier 'L1Params'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(228,11): error C2143: syntax error: missing ';' before '*'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(228,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(228,15): error C2238: unexpected token(s) preceding ';'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(237,36): error C2061: syntax error: identifier 'TECSParams'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(238,13): error C2143: syntax error: missing ';' before '*'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(238,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(238,17): error C2238: unexpected token(s) preceding ';'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(166,38): error C2065: 'readOnly': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(166,48): error C2065: 'userActionFlag': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(166,73): error C2065: 'gpsPtr': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(167,25): error C2065: 'setFun': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(167,42): error C2065: 'getFun': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(167,57): error C2065: 'vmin': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(167,70): error C2065: 'vmax': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(167,86): error C2065: 'decimal': undeclared identifier
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(166,65): error C2614: 'ParameterNames::ParGpsDoubleFun': illegal member initialization: '_gpsPtr' is not a base or member
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(167,17): error C2614: 'ParameterNames::ParGpsDoubleFun': illegal member initialization: '_setFun' is not a base or member
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\ParameterNames.h(167,34): error C2614: 'ParameterNames::ParGpsDoubleFun': illegal member initialization: '_getFun' is not a base or member
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(38,62): error C2061: syntax error: identifier 'INT16U'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(42,18): error C2039: 'vector': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\iostream(19): message : see declaration of 'std'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(42,24): error C2143: syntax error: missing ';' before '<'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(42,24): error C2433: 'StorageBase::vector': 'virtual' not permitted on data declarations
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(42,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(42,69): error C2238: unexpected token(s) preceding ';'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(43,18): error C2039: 'vector': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\iostream(19): message : see declaration of 'std'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(43,24): error C2143: syntax error: missing ';' before '<'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(43,24): error C2433: 'StorageBase::vector': 'virtual' not permitted on data declarations
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(43,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\StorageBase.h(43,56): error C2238: unexpected token(s) preceding ';'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\TypeParser.cpp(96,5): error C3861: 'MEMCCPY': identifier not found
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\TypeParser.cpp(97,5): error C3861: 'MEMCCPY': identifier not found
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\TypeParser.cpp(124,12): error C2027: use of undefined type 'GpsPosition'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\TypeParser.h(13): message : see declaration of 'GpsPosition'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\TypeParser.cpp(125,12): error C2027: use of undefined type 'GpsPosition'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\TypeParser.h(13): message : see declaration of 'GpsPosition'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\TypeParser.cpp(134,12): error C2027: use of undefined type 'GpsPosition'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\TypeParser.h(13): message : see declaration of 'GpsPosition'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\TypeParser.cpp(135,12): error C2027: use of undefined type 'GpsPosition'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\TypeParser.h(13): message : see declaration of 'GpsPosition'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\TypeParser.cpp(153,5): error C3861: 'MEMCCPY': identifier not found
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\TypeParser.cpp(154,5): error C3861: 'MEMCCPY': identifier not found
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\TypeParser.cpp(181,22): error C2027: use of undefined type 'GpsPosition'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\TypeParser.h(13): message : see declaration of 'GpsPosition'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\TypeParser.cpp(181,37): error C3861: 'movePositionXY': identifier not found
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\TypeParser.cpp(190,22): error C2027: use of undefined type 'GpsPosition'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\TypeParser.h(13): message : see declaration of 'GpsPosition'
+C:\JSBSim\matlab\unit_tests\UnitTest_CPP_Matlab\TypeParser.cpp(190,37): error C3861: 'movePositionXY': identifier not found
+  Generating Code...

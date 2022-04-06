@@ -1,0 +1,14 @@
+OBJECT_SHARED Models/Communications/radio-medium.xml -159.667222 22.12 989.04 180
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -159.660412 22.051904 902.7 221.71
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -159.659889 22.052336 901.06 221.74
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -159.659581 22.052591 899.27 213.13
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -159.659235 22.052737 887.42 191.94
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -159.656578 22.052711 786.07 180.04
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -159.65586 22.052719 759.19 187.28
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -159.653108 22.053349 663.3 178.71
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -159.646921 22.051656 502.67 143.97
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -159.646246 22.050742 468.97 133.21
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -159.645675 22.050329 450.88 140.1
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -159.643988 22.048929 410.08 138.82
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -159.642929 22.04809 361.98 139.48
+OBJECT_STATIC waipoo_falls.xml -159.6617 22.1043 904.64 0
